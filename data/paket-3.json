@@ -1,0 +1,2402 @@
+[
+  {
+    "text": "Sederhanakan:<br>65 / 156",
+    "ans": {
+      "p": "5",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 156 = 12 × 13. Pembilang: 65 / 13 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>96 / 108",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 108 = 9 × 12. Pembilang: 96 / 12 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>28 / 49",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 49 = 7 × 7. Pembilang: 28 / 7 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>84 / 98",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 98 = 7 × 14. Pembilang: 84 / 14 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>9 / 36",
+    "ans": {
+      "p": "1",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 36 = 4 × 9. Pembilang: 9 / 9 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 132",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 132 = 11 × 12. Pembilang: 72 / 12 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>12 / 132",
+    "ans": {
+      "p": "1",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 132 = 11 × 12. Pembilang: 12 / 12 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>77 / 121",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 121 = 11 × 11. Pembilang: 77 / 11 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>64 / 88",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 88 = 11 × 8. Pembilang: 64 / 8 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>77 / 132",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 132 = 12 × 11. Pembilang: 77 / 11 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>25 / 45",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 45 = 9 × 5. Pembilang: 25 / 5 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>8 / 24",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 24 = 3 × 8. Pembilang: 8 / 8 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>12 / 144",
+    "ans": {
+      "p": "1",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 144 = 12 × 12. Pembilang: 12 / 12 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>20 / 45",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 45 = 9 × 5. Pembilang: 20 / 5 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>78 / 91",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 91 = 7 × 13. Pembilang: 78 / 13 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 63",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 63 = 9 × 7. Pembilang: 35 / 7 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>91 / 104",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 104 = 8 × 13. Pembilang: 91 / 13 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>13 / 91",
+    "ans": {
+      "p": "1",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 91 = 7 × 13. Pembilang: 13 / 13 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>60 / 70",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 70 = 7 × 10. Pembilang: 60 / 10 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>7 / 56",
+    "ans": {
+      "p": "1",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 56 = 8 × 7. Pembilang: 7 / 7 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>54 / 63",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 63 = 7 × 9. Pembilang: 54 / 9 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>84 / 98",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 98 = 7 × 14. Pembilang: 84 / 14 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>36 / 84",
+    "ans": {
+      "p": "3",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 84 = 7 × 12. Pembilang: 36 / 12 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 55",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 55 = 11 × 5. Pembilang: 30 / 5 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>28 / 70",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 70 = 5 × 14. Pembilang: 28 / 14 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>6 / 12",
+    "ans": {
+      "p": "1",
+      "q": "2"
+    },
+    "bahas": "Bongkar penyebut: 12 = 2 × 6. Pembilang: 6 / 6 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>49 / 56",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 56 = 8 × 7. Pembilang: 49 / 7 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>7 / 21",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 21 = 3 × 7. Pembilang: 7 / 7 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>49 / 70",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 70 = 10 × 7. Pembilang: 49 / 7 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 132",
+    "ans": {
+      "p": "4",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 132 = 11 × 12. Pembilang: 48 / 12 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>50 / 70",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 70 = 7 × 10. Pembilang: 50 / 10 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>63 / 77",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 77 = 11 × 7. Pembilang: 63 / 7 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>54 / 66",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 66 = 11 × 6. Pembilang: 54 / 6 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>91 / 104",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 104 = 8 × 13. Pembilang: 91 / 13 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>8 / 80",
+    "ans": {
+      "p": "1",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 80 = 10 × 8. Pembilang: 8 / 8 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>40 / 72",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 72 = 9 × 8. Pembilang: 40 / 8 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>49 / 56",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 56 = 8 × 7. Pembilang: 49 / 7 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>10 / 20",
+    "ans": {
+      "p": "1",
+      "q": "2"
+    },
+    "bahas": "Bongkar penyebut: 20 = 2 × 10. Pembilang: 10 / 10 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>18 / 24",
+    "ans": {
+      "p": "3",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 24 = 4 × 6. Pembilang: 18 / 6 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>77 / 132",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 132 = 12 × 11. Pembilang: 77 / 11 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>15 / 75",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 75 = 5 × 15. Pembilang: 15 / 15 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 88",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 88 = 11 × 8. Pembilang: 48 / 8 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>108 / 120",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 120 = 10 × 12. Pembilang: 108 / 12 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>81 / 90",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 90 = 10 × 9. Pembilang: 81 / 9 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>49 / 63",
+    "ans": {
+      "p": "7",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 63 = 9 × 7. Pembilang: 49 / 7 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>44 / 77",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 77 = 7 × 11. Pembilang: 44 / 11 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>12 / 42",
+    "ans": {
+      "p": "2",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 42 = 7 × 6. Pembilang: 12 / 6 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>70 / 84",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 84 = 6 × 14. Pembilang: 70 / 14 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>16 / 40",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 40 = 5 × 8. Pembilang: 16 / 8 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>44 / 121",
+    "ans": {
+      "p": "4",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 121 = 11 × 11. Pembilang: 44 / 11 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>56 / 96",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 96 = 12 × 8. Pembilang: 56 / 8 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>5 / 30",
+    "ans": {
+      "p": "1",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 30 = 6 × 5. Pembilang: 5 / 5 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 50",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 50 = 10 × 5. Pembilang: 35 / 5 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>8 / 96",
+    "ans": {
+      "p": "1",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 96 = 12 × 8. Pembilang: 8 / 8 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>12 / 66",
+    "ans": {
+      "p": "2",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 66 = 11 × 6. Pembilang: 12 / 6 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>75 / 165",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 165 = 11 × 15. Pembilang: 75 / 15 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 54",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 54 = 9 × 6. Pembilang: 48 / 6 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>33 / 88",
+    "ans": {
+      "p": "3",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 88 = 8 × 11. Pembilang: 33 / 11 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>75 / 90",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 90 = 6 × 15. Pembilang: 75 / 15 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>40 / 88",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 88 = 11 × 8. Pembilang: 40 / 8 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>60 / 72",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 72 = 6 × 12. Pembilang: 60 / 12 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>25 / 45",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 45 = 9 × 5. Pembilang: 25 / 5 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 77",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 77 = 11 × 7. Pembilang: 35 / 7 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>98 / 168",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 168 = 12 × 14. Pembilang: 98 / 14 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>75 / 120",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 120 = 8 × 15. Pembilang: 75 / 15 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>104 / 143",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 143 = 11 × 13. Pembilang: 104 / 13 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 81",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 81 = 9 × 9. Pembilang: 72 / 9 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>5 / 30",
+    "ans": {
+      "p": "1",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 30 = 6 × 5. Pembilang: 5 / 5 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>14 / 35",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 35 = 5 × 7. Pembilang: 14 / 7 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>10 / 40",
+    "ans": {
+      "p": "1",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 40 = 4 × 10. Pembilang: 10 / 10 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>49 / 70",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 70 = 10 × 7. Pembilang: 49 / 7 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>55 / 77",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 77 = 7 × 11. Pembilang: 55 / 11 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>10 / 80",
+    "ans": {
+      "p": "1",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 80 = 8 × 10. Pembilang: 10 / 10 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 55",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 55 = 11 × 5. Pembilang: 30 / 5 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 54",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 54 = 9 × 6. Pembilang: 30 / 6 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>77 / 110",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 110 = 10 × 11. Pembilang: 77 / 11 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>8 / 24",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 24 = 3 × 8. Pembilang: 8 / 8 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>112 / 154",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 154 = 11 × 14. Pembilang: 112 / 14 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>117 / 130",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 130 = 10 × 13. Pembilang: 117 / 13 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>77 / 121",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 121 = 11 × 11. Pembilang: 77 / 11 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>70 / 110",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 110 = 11 × 10. Pembilang: 70 / 10 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>65 / 78",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 78 = 6 × 13. Pembilang: 65 / 13 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>13 / 156",
+    "ans": {
+      "p": "1",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 156 = 12 × 13. Pembilang: 13 / 13 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 66",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 66 = 11 × 6. Pembilang: 30 / 6 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>12 / 60",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 60 = 5 × 12. Pembilang: 12 / 12 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 50",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 50 = 10 × 5. Pembilang: 35 / 5 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>18 / 81",
+    "ans": {
+      "p": "2",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 81 = 9 × 9. Pembilang: 18 / 9 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>10 / 50",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 50 = 5 × 10. Pembilang: 10 / 10 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>28 / 63",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 63 = 9 × 7. Pembilang: 28 / 7 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>20 / 45",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 45 = 9 × 5. Pembilang: 20 / 5 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>56 / 96",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 96 = 12 × 8. Pembilang: 56 / 8 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 66",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 66 = 11 × 6. Pembilang: 48 / 6 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>126 / 154",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 154 = 11 × 14. Pembilang: 126 / 14 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>50 / 90",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 90 = 9 × 10. Pembilang: 50 / 10 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>60 / 144",
+    "ans": {
+      "p": "5",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 144 = 12 × 12. Pembilang: 60 / 12 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>66 / 77",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 77 = 7 × 11. Pembilang: 66 / 11 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>120 / 165",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 165 = 11 × 15. Pembilang: 120 / 15 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>14 / 63",
+    "ans": {
+      "p": "2",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 63 = 9 × 7. Pembilang: 14 / 7 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>20 / 45",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 45 = 9 × 5. Pembilang: 20 / 5 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>45 / 63",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 63 = 7 × 9. Pembilang: 45 / 9 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>9 / 18",
+    "ans": {
+      "p": "1",
+      "q": "2"
+    },
+    "bahas": "Bongkar penyebut: 18 = 2 × 9. Pembilang: 9 / 9 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>56 / 72",
+    "ans": {
+      "p": "7",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 72 = 9 × 8. Pembilang: 56 / 8 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>25 / 30",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 30 = 6 × 5. Pembilang: 25 / 5 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 42",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 42 = 7 × 6. Pembilang: 30 / 6 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 42",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 42 = 7 × 6. Pembilang: 30 / 6 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>11 / 121",
+    "ans": {
+      "p": "1",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 121 = 11 × 11. Pembilang: 11 / 11 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 40",
+    "ans": {
+      "p": "3",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 40 = 4 × 10. Pembilang: 30 / 10 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 56",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 56 = 8 × 7. Pembilang: 35 / 7 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>54 / 60",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 60 = 10 × 6. Pembilang: 54 / 6 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>66 / 121",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 121 = 11 × 11. Pembilang: 66 / 11 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 42",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 42 = 6 × 7. Pembilang: 35 / 7 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>84 / 120",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 120 = 10 × 12. Pembilang: 84 / 12 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>8 / 80",
+    "ans": {
+      "p": "1",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 80 = 10 × 8. Pembilang: 8 / 8 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 84",
+    "ans": {
+      "p": "5",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 84 = 12 × 7. Pembilang: 35 / 7 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>25 / 35",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 35 = 7 × 5. Pembilang: 25 / 5 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>5 / 60",
+    "ans": {
+      "p": "1",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 60 = 12 × 5. Pembilang: 5 / 5 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>104 / 117",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 117 = 9 × 13. Pembilang: 104 / 13 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>5 / 10",
+    "ans": {
+      "p": "1",
+      "q": "2"
+    },
+    "bahas": "Bongkar penyebut: 10 = 2 × 5. Pembilang: 5 / 5 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 49",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 49 = 7 × 7. Pembilang: 35 / 7 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 84",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 84 = 7 × 12. Pembilang: 72 / 12 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>52 / 91",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 91 = 7 × 13. Pembilang: 52 / 13 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>63 / 70",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 70 = 10 × 7. Pembilang: 63 / 7 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>32 / 72",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 72 = 9 × 8. Pembilang: 32 / 8 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>32 / 88",
+    "ans": {
+      "p": "4",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 88 = 11 × 8. Pembilang: 32 / 8 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>99 / 110",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 110 = 10 × 11. Pembilang: 99 / 11 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>70 / 80",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 80 = 8 × 10. Pembilang: 70 / 10 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>40 / 56",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 56 = 7 × 8. Pembilang: 40 / 8 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>60 / 135",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 135 = 9 × 15. Pembilang: 60 / 15 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>9 / 36",
+    "ans": {
+      "p": "1",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 36 = 4 × 9. Pembilang: 9 / 9 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 88",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 88 = 11 × 8. Pembilang: 48 / 8 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>104 / 117",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 117 = 9 × 13. Pembilang: 104 / 13 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>13 / 91",
+    "ans": {
+      "p": "1",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 91 = 7 × 13. Pembilang: 13 / 13 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 80",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 80 = 10 × 8. Pembilang: 72 / 8 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>10 / 35",
+    "ans": {
+      "p": "2",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 35 = 7 × 5. Pembilang: 10 / 5 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>70 / 80",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 80 = 8 × 10. Pembilang: 70 / 10 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 132",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 132 = 11 × 12. Pembilang: 72 / 12 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>40 / 110",
+    "ans": {
+      "p": "4",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 110 = 11 × 10. Pembilang: 40 / 10 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>108 / 132",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 132 = 11 × 12. Pembilang: 108 / 12 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>40 / 96",
+    "ans": {
+      "p": "5",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 96 = 12 × 8. Pembilang: 40 / 8 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>63 / 70",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 70 = 10 × 7. Pembilang: 63 / 7 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>70 / 112",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 112 = 8 × 14. Pembilang: 70 / 14 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>25 / 55",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 55 = 11 × 5. Pembilang: 25 / 5 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>35 / 50",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 50 = 10 × 5. Pembilang: 35 / 5 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>44 / 77",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 77 = 7 × 11. Pembilang: 44 / 11 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>64 / 88",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 88 = 11 × 8. Pembilang: 64 / 8 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 105",
+    "ans": {
+      "p": "2",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 105 = 7 × 15. Pembilang: 30 / 15 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 135",
+    "ans": {
+      "p": "2",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 135 = 9 × 15. Pembilang: 30 / 15 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>12 / 120",
+    "ans": {
+      "p": "1",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 120 = 10 × 12. Pembilang: 12 / 12 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>27 / 99",
+    "ans": {
+      "p": "3",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 99 = 11 × 9. Pembilang: 27 / 9 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>99 / 121",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 121 = 11 × 11. Pembilang: 99 / 11 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>192 / 216",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 216 = 9 × 24. Pembilang: 192 / 24 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>66 / 110",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 110 = 5 × 22. Pembilang: 66 / 22 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>168 / 264",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 264 = 11 × 24. Pembilang: 168 / 24 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>80 / 140",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 140 = 7 × 20. Pembilang: 80 / 20 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>28 / 84",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 84 = 3 × 28. Pembilang: 28 / 28 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>198 / 242",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 242 = 11 × 22. Pembilang: 198 / 22 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>162 / 189",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 189 = 7 × 27. Pembilang: 162 / 27 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>156 / 182",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 182 = 7 × 26. Pembilang: 156 / 26 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>28 / 336",
+    "ans": {
+      "p": "1",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 336 = 12 × 28. Pembilang: 28 / 28 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>189 / 243",
+    "ans": {
+      "p": "7",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 243 = 9 × 27. Pembilang: 189 / 27 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>29 / 145",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 145 = 5 × 29. Pembilang: 29 / 29 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>130 / 312",
+    "ans": {
+      "p": "5",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 312 = 12 × 26. Pembilang: 130 / 26 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>184 / 207",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 207 = 9 × 23. Pembilang: 184 / 23 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>36 / 90",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 90 = 5 × 18. Pembilang: 36 / 18 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>184 / 207",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 207 = 9 × 23. Pembilang: 184 / 23 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>189 / 210",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 210 = 10 × 21. Pembilang: 189 / 21 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>16 / 144",
+    "ans": {
+      "p": "1",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 144 = 9 × 16. Pembilang: 16 / 16 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 210",
+    "ans": {
+      "p": "1",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 210 = 7 × 30. Pembilang: 30 / 30 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>210 / 330",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 330 = 11 × 30. Pembilang: 210 / 30 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 64",
+    "ans": {
+      "p": "3",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 64 = 4 × 16. Pembilang: 48 / 16 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>119 / 136",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 136 = 8 × 17. Pembilang: 119 / 17 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>114 / 133",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 133 = 7 × 19. Pembilang: 114 / 19 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>207 / 230",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 230 = 10 × 23. Pembilang: 207 / 23 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>100 / 160",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 160 = 8 × 20. Pembilang: 100 / 20 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>51 / 119",
+    "ans": {
+      "p": "3",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 119 = 7 × 17. Pembilang: 51 / 17 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>270 / 330",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 330 = 11 × 30. Pembilang: 270 / 30 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>180 / 330",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 330 = 11 × 30. Pembilang: 180 / 30 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>189 / 231",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 231 = 11 × 21. Pembilang: 189 / 21 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>161 / 253",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 253 = 11 × 23. Pembilang: 161 / 23 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>176 / 242",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 242 = 11 × 22. Pembilang: 176 / 22 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>120 / 192",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 192 = 8 × 24. Pembilang: 120 / 24 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>105 / 189",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 189 = 9 × 21. Pembilang: 105 / 21 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>23 / 46",
+    "ans": {
+      "p": "1",
+      "q": "2"
+    },
+    "bahas": "Bongkar penyebut: 46 = 2 × 23. Pembilang: 23 / 23 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>56 / 140",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 140 = 5 × 28. Pembilang: 56 / 28 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>96 / 112",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 112 = 7 × 16. Pembilang: 96 / 16 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>75 / 125",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 125 = 5 × 25. Pembilang: 75 / 25 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 210",
+    "ans": {
+      "p": "1",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 210 = 7 × 30. Pembilang: 30 / 30 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>58 / 145",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 145 = 5 × 29. Pembilang: 58 / 29 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>57 / 152",
+    "ans": {
+      "p": "3",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 152 = 8 × 19. Pembilang: 57 / 19 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 96",
+    "ans": {
+      "p": "3",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 96 = 4 × 24. Pembilang: 72 / 24 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>38 / 95",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 95 = 5 × 19. Pembilang: 38 / 19 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>168 / 189",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 189 = 9 × 21. Pembilang: 168 / 21 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>162 / 297",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 297 = 11 × 27. Pembilang: 162 / 27 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>27 / 135",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 135 = 5 × 27. Pembilang: 27 / 27 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>75 / 100",
+    "ans": {
+      "p": "3",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 100 = 4 × 25. Pembilang: 75 / 25 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>105 / 231",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 231 = 11 × 21. Pembilang: 105 / 21 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>27 / 162",
+    "ans": {
+      "p": "1",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 162 = 6 × 27. Pembilang: 27 / 27 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>147 / 210",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 210 = 10 × 21. Pembilang: 147 / 21 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 240",
+    "ans": {
+      "p": "1",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 240 = 8 × 30. Pembilang: 30 / 30 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>28 / 280",
+    "ans": {
+      "p": "1",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 280 = 10 × 28. Pembilang: 28 / 28 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>72 / 192",
+    "ans": {
+      "p": "3",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 192 = 8 × 24. Pembilang: 72 / 24 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>32 / 80",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 80 = 5 × 16. Pembilang: 32 / 16 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>145 / 319",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 319 = 11 × 29. Pembilang: 145 / 29 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>120 / 330",
+    "ans": {
+      "p": "4",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 330 = 11 × 30. Pembilang: 120 / 30 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>108 / 135",
+    "ans": {
+      "p": "4",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 135 = 5 × 27. Pembilang: 108 / 27 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>20 / 100",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 100 = 5 × 20. Pembilang: 20 / 20 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>38 / 57",
+    "ans": {
+      "p": "2",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 57 = 3 × 19. Pembilang: 38 / 19 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>232 / 261",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 261 = 9 × 29. Pembilang: 232 / 29 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>243 / 270",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 270 = 10 × 27. Pembilang: 243 / 27 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>90 / 216",
+    "ans": {
+      "p": "5",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 216 = 12 × 18. Pembilang: 90 / 18 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 80",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 80 = 5 × 16. Pembilang: 48 / 16 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>150 / 330",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 330 = 11 × 30. Pembilang: 150 / 30 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>200 / 275",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 275 = 11 × 25. Pembilang: 200 / 25 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>17 / 119",
+    "ans": {
+      "p": "1",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 119 = 7 × 17. Pembilang: 17 / 17 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>102 / 187",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 187 = 11 × 17. Pembilang: 102 / 17 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>46 / 161",
+    "ans": {
+      "p": "2",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 161 = 7 × 23. Pembilang: 46 / 23 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>21 / 84",
+    "ans": {
+      "p": "1",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 84 = 4 × 21. Pembilang: 21 / 21 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>18 / 54",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 54 = 3 × 18. Pembilang: 18 / 18 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>162 / 297",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 297 = 11 × 27. Pembilang: 162 / 27 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>60 / 270",
+    "ans": {
+      "p": "2",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 270 = 9 × 30. Pembilang: 60 / 30 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>18 / 90",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 90 = 5 × 18. Pembilang: 18 / 18 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>210 / 360",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 360 = 12 × 30. Pembilang: 210 / 30 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>54 / 90",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 90 = 5 × 18. Pembilang: 54 / 18 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>196 / 252",
+    "ans": {
+      "p": "7",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 252 = 9 × 28. Pembilang: 196 / 28 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>162 / 180",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 180 = 10 × 18. Pembilang: 162 / 18 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>112 / 252",
+    "ans": {
+      "p": "4",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 252 = 9 × 28. Pembilang: 112 / 28 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>144 / 176",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 176 = 11 × 16. Pembilang: 144 / 16 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>25 / 125",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 125 = 5 × 25. Pembilang: 25 / 25 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>175 / 225",
+    "ans": {
+      "p": "7",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 225 = 9 × 25. Pembilang: 175 / 25 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>110 / 132",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 132 = 6 × 22. Pembilang: 110 / 22 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>110 / 132",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 132 = 6 × 22. Pembilang: 110 / 22 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>171 / 190",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 190 = 10 × 19. Pembilang: 171 / 19 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>100 / 125",
+    "ans": {
+      "p": "4",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 125 = 5 × 25. Pembilang: 100 / 25 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 80",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 80 = 5 × 16. Pembilang: 48 / 16 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>26 / 52",
+    "ans": {
+      "p": "1",
+      "q": "2"
+    },
+    "bahas": "Bongkar penyebut: 52 = 2 × 26. Pembilang: 26 / 26 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>26 / 78",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 78 = 3 × 26. Pembilang: 26 / 26 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>136 / 187",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 187 = 11 × 17. Pembilang: 136 / 17 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>105 / 189",
+    "ans": {
+      "p": "5",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 189 = 9 × 21. Pembilang: 105 / 21 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>270 / 300",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 300 = 10 × 30. Pembilang: 270 / 30 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 168",
+    "ans": {
+      "p": "2",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 168 = 7 × 24. Pembilang: 48 / 24 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>63 / 105",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 105 = 5 × 21. Pembilang: 63 / 21 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>20 / 60",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 60 = 3 × 20. Pembilang: 20 / 20 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>232 / 261",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 261 = 9 × 29. Pembilang: 232 / 29 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>192 / 264",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 264 = 11 × 24. Pembilang: 192 / 24 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>133 / 228",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 228 = 12 × 19. Pembilang: 133 / 19 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>182 / 312",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 312 = 12 × 26. Pembilang: 182 / 26 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>150 / 175",
+    "ans": {
+      "p": "6",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 175 = 7 × 25. Pembilang: 150 / 25 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>182 / 312",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 312 = 12 × 26. Pembilang: 182 / 26 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 90",
+    "ans": {
+      "p": "1",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 90 = 3 × 30. Pembilang: 30 / 30 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>207 / 230",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 230 = 10 × 23. Pembilang: 207 / 23 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>182 / 286",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 286 = 11 × 26. Pembilang: 182 / 26 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>40 / 60",
+    "ans": {
+      "p": "2",
+      "q": "3"
+    },
+    "bahas": "Bongkar penyebut: 60 = 3 × 20. Pembilang: 40 / 20 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>85 / 187",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 187 = 11 × 17. Pembilang: 85 / 17 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>50 / 125",
+    "ans": {
+      "p": "2",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 125 = 5 × 25. Pembilang: 50 / 25 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>162 / 180",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 180 = 10 × 18. Pembilang: 162 / 18 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>80 / 128",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 128 = 8 × 16. Pembilang: 80 / 16 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>90 / 300",
+    "ans": {
+      "p": "3",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 300 = 10 × 30. Pembilang: 90 / 30 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>95 / 152",
+    "ans": {
+      "p": "5",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 152 = 8 × 19. Pembilang: 95 / 19 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 168",
+    "ans": {
+      "p": "2",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 168 = 7 × 24. Pembilang: 48 / 24 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>147 / 168",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 168 = 8 × 21. Pembilang: 147 / 21 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>176 / 242",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 242 = 11 × 22. Pembilang: 176 / 22 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>252 / 280",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 280 = 10 × 28. Pembilang: 252 / 28 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>80 / 96",
+    "ans": {
+      "p": "5",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 96 = 6 × 16. Pembilang: 80 / 16 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>19 / 209",
+    "ans": {
+      "p": "1",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 209 = 11 × 19. Pembilang: 19 / 19 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>58 / 319",
+    "ans": {
+      "p": "2",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 319 = 11 × 29. Pembilang: 58 / 29 = 2."
+  },
+  {
+    "text": "Sederhanakan:<br>174 / 319",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 319 = 11 × 29. Pembilang: 174 / 29 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>69 / 184",
+    "ans": {
+      "p": "3",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 184 = 8 × 23. Pembilang: 69 / 23 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>100 / 220",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 220 = 11 × 20. Pembilang: 100 / 20 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>29 / 174",
+    "ans": {
+      "p": "1",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 174 = 6 × 29. Pembilang: 29 / 29 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>80 / 220",
+    "ans": {
+      "p": "4",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 220 = 11 × 20. Pembilang: 80 / 20 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>150 / 330",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 330 = 11 × 30. Pembilang: 150 / 30 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>27 / 324",
+    "ans": {
+      "p": "1",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 324 = 12 × 27. Pembilang: 27 / 27 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>29 / 145",
+    "ans": {
+      "p": "1",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 145 = 5 × 29. Pembilang: 29 / 29 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>140 / 200",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 200 = 10 × 20. Pembilang: 140 / 20 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>76 / 133",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 133 = 7 × 19. Pembilang: 76 / 19 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>76 / 133",
+    "ans": {
+      "p": "4",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 133 = 7 × 19. Pembilang: 76 / 19 = 4."
+  },
+  {
+    "text": "Sederhanakan:<br>140 / 160",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 160 = 8 × 20. Pembilang: 140 / 20 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>102 / 187",
+    "ans": {
+      "p": "6",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 187 = 11 × 17. Pembilang: 102 / 17 = 6."
+  },
+  {
+    "text": "Sederhanakan:<br>189 / 231",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 231 = 11 × 21. Pembilang: 189 / 21 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>90 / 126",
+    "ans": {
+      "p": "5",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 126 = 7 × 18. Pembilang: 90 / 18 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>30 / 180",
+    "ans": {
+      "p": "1",
+      "q": "6"
+    },
+    "bahas": "Bongkar penyebut: 180 = 6 × 30. Pembilang: 30 / 30 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>189 / 297",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 297 = 11 × 27. Pembilang: 189 / 27 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>184 / 207",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 207 = 9 × 23. Pembilang: 184 / 23 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>126 / 144",
+    "ans": {
+      "p": "7",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 144 = 8 × 18. Pembilang: 126 / 18 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>105 / 231",
+    "ans": {
+      "p": "5",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 231 = 11 × 21. Pembilang: 105 / 21 = 5."
+  },
+  {
+    "text": "Sederhanakan:<br>175 / 275",
+    "ans": {
+      "p": "7",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 275 = 11 × 25. Pembilang: 175 / 25 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>140 / 240",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 240 = 12 × 20. Pembilang: 140 / 20 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>198 / 220",
+    "ans": {
+      "p": "9",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 220 = 10 × 22. Pembilang: 198 / 22 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>192 / 216",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 216 = 9 × 24. Pembilang: 192 / 24 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>126 / 180",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 180 = 10 × 18. Pembilang: 126 / 18 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>153 / 187",
+    "ans": {
+      "p": "9",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 187 = 11 × 17. Pembilang: 153 / 17 = 9."
+  },
+  {
+    "text": "Sederhanakan:<br>203 / 348",
+    "ans": {
+      "p": "7",
+      "q": "12"
+    },
+    "bahas": "Bongkar penyebut: 348 = 12 × 29. Pembilang: 203 / 29 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>48 / 112",
+    "ans": {
+      "p": "3",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 112 = 7 × 16. Pembilang: 48 / 16 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>168 / 231",
+    "ans": {
+      "p": "8",
+      "q": "11"
+    },
+    "bahas": "Bongkar penyebut: 231 = 11 × 21. Pembilang: 168 / 21 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>63 / 168",
+    "ans": {
+      "p": "3",
+      "q": "8"
+    },
+    "bahas": "Bongkar penyebut: 168 = 8 × 21. Pembilang: 63 / 21 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>19 / 133",
+    "ans": {
+      "p": "1",
+      "q": "7"
+    },
+    "bahas": "Bongkar penyebut: 133 = 7 × 19. Pembilang: 19 / 19 = 1."
+  },
+  {
+    "text": "Sederhanakan:<br>232 / 261",
+    "ans": {
+      "p": "8",
+      "q": "9"
+    },
+    "bahas": "Bongkar penyebut: 261 = 9 × 29. Pembilang: 232 / 29 = 8."
+  },
+  {
+    "text": "Sederhanakan:<br>84 / 112",
+    "ans": {
+      "p": "3",
+      "q": "4"
+    },
+    "bahas": "Bongkar penyebut: 112 = 4 × 28. Pembilang: 84 / 28 = 3."
+  },
+  {
+    "text": "Sederhanakan:<br>147 / 210",
+    "ans": {
+      "p": "7",
+      "q": "10"
+    },
+    "bahas": "Bongkar penyebut: 210 = 10 × 21. Pembilang: 147 / 21 = 7."
+  },
+  {
+    "text": "Sederhanakan:<br>78 / 130",
+    "ans": {
+      "p": "3",
+      "q": "5"
+    },
+    "bahas": "Bongkar penyebut: 130 = 5 × 26. Pembilang: 78 / 26 = 3."
+  }
+]

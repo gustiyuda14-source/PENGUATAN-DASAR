@@ -1,0 +1,8 @@
+{
+  "name": "penguatan-dasar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:soal": "node scripts/generate-soal-data.mjs"
+  }
+}
