@@ -1,0 +1,1502 @@
+[
+  {
+    "text": "Jika 9 × n = 261,<br>maka 1 × n = ?",
+    "ans": "29",
+    "bahas": "n = 261/9 = 29. Maka 1 × 29 = 29"
+  },
+  {
+    "text": "Jika 6 × n = 252,<br>maka 4 × n = ?",
+    "ans": "168",
+    "bahas": "n = 252/6 = 42. Maka 4 × 42 = 168"
+  },
+  {
+    "text": "Jika 3 × n = 99,<br>maka 7 × n = ?",
+    "ans": "231",
+    "bahas": "n = 99/3 = 33. Maka 7 × 33 = 231"
+  },
+  {
+    "text": "Jika 3 × n = 63,<br>maka 7 × n = ?",
+    "ans": "147",
+    "bahas": "n = 63/3 = 21. Maka 7 × 21 = 147"
+  },
+  {
+    "text": "Jika 8 × n = 312,<br>maka 2 × n = ?",
+    "ans": "78",
+    "bahas": "n = 312/8 = 39. Maka 2 × 39 = 78"
+  },
+  {
+    "text": "Jika 7 × n = 105,<br>maka 3 × n = ?",
+    "ans": "45",
+    "bahas": "n = 105/7 = 15. Maka 3 × 15 = 45"
+  },
+  {
+    "text": "Jika 9 × n = 243,<br>maka 1 × n = ?",
+    "ans": "27",
+    "bahas": "n = 243/9 = 27. Maka 1 × 27 = 27"
+  },
+  {
+    "text": "Jika 3 × n = 129,<br>maka 7 × n = ?",
+    "ans": "301",
+    "bahas": "n = 129/3 = 43. Maka 7 × 43 = 301"
+  },
+  {
+    "text": "Jika 7 × n = 154,<br>maka 3 × n = ?",
+    "ans": "66",
+    "bahas": "n = 154/7 = 22. Maka 3 × 22 = 66"
+  },
+  {
+    "text": "Jika 3 × n = 69,<br>maka 7 × n = ?",
+    "ans": "161",
+    "bahas": "n = 69/3 = 23. Maka 7 × 23 = 161"
+  },
+  {
+    "text": "Jika 6 × n = 168,<br>maka 4 × n = ?",
+    "ans": "112",
+    "bahas": "n = 168/6 = 28. Maka 4 × 28 = 112"
+  },
+  {
+    "text": "Jika 6 × n = 78,<br>maka 4 × n = ?",
+    "ans": "52",
+    "bahas": "n = 78/6 = 13. Maka 4 × 13 = 52"
+  },
+  {
+    "text": "Jika 8 × n = 384,<br>maka 2 × n = ?",
+    "ans": "96",
+    "bahas": "n = 384/8 = 48. Maka 2 × 48 = 96"
+  },
+  {
+    "text": "Jika 8 × n = 352,<br>maka 2 × n = ?",
+    "ans": "88",
+    "bahas": "n = 352/8 = 44. Maka 2 × 44 = 88"
+  },
+  {
+    "text": "Jika 8 × n = 232,<br>maka 2 × n = ?",
+    "ans": "58",
+    "bahas": "n = 232/8 = 29. Maka 2 × 29 = 58"
+  },
+  {
+    "text": "Jika 6 × n = 186,<br>maka 4 × n = ?",
+    "ans": "124",
+    "bahas": "n = 186/6 = 31. Maka 4 × 31 = 124"
+  },
+  {
+    "text": "Jika 5 × n = 220,<br>maka 5 × n = ?",
+    "ans": "220",
+    "bahas": "n = 220/5 = 44. Maka 5 × 44 = 220"
+  },
+  {
+    "text": "Jika 7 × n = 84,<br>maka 3 × n = ?",
+    "ans": "36",
+    "bahas": "n = 84/7 = 12. Maka 3 × 12 = 36"
+  },
+  {
+    "text": "Jika 5 × n = 130,<br>maka 5 × n = ?",
+    "ans": "130",
+    "bahas": "n = 130/5 = 26. Maka 5 × 26 = 130"
+  },
+  {
+    "text": "Jika 7 × n = 77,<br>maka 3 × n = ?",
+    "ans": "33",
+    "bahas": "n = 77/7 = 11. Maka 3 × 11 = 33"
+  },
+  {
+    "text": "Jika 5 × n = 100,<br>maka 5 × n = ?",
+    "ans": "100",
+    "bahas": "n = 100/5 = 20. Maka 5 × 20 = 100"
+  },
+  {
+    "text": "Jika 8 × n = 104,<br>maka 2 × n = ?",
+    "ans": "26",
+    "bahas": "n = 104/8 = 13. Maka 2 × 13 = 26"
+  },
+  {
+    "text": "Jika 9 × n = 414,<br>maka 1 × n = ?",
+    "ans": "46",
+    "bahas": "n = 414/9 = 46. Maka 1 × 46 = 46"
+  },
+  {
+    "text": "Jika 5 × n = 80,<br>maka 5 × n = ?",
+    "ans": "80",
+    "bahas": "n = 80/5 = 16. Maka 5 × 16 = 80"
+  },
+  {
+    "text": "Jika 6 × n = 282,<br>maka 4 × n = ?",
+    "ans": "188",
+    "bahas": "n = 282/6 = 47. Maka 4 × 47 = 188"
+  },
+  {
+    "text": "Jika 7 × n = 322,<br>maka 3 × n = ?",
+    "ans": "138",
+    "bahas": "n = 322/7 = 46. Maka 3 × 46 = 138"
+  },
+  {
+    "text": "Jika 8 × n = 128,<br>maka 2 × n = ?",
+    "ans": "32",
+    "bahas": "n = 128/8 = 16. Maka 2 × 16 = 32"
+  },
+  {
+    "text": "Jika 8 × n = 280,<br>maka 2 × n = ?",
+    "ans": "70",
+    "bahas": "n = 280/8 = 35. Maka 2 × 35 = 70"
+  },
+  {
+    "text": "Jika 3 × n = 54,<br>maka 7 × n = ?",
+    "ans": "126",
+    "bahas": "n = 54/3 = 18. Maka 7 × 18 = 126"
+  },
+  {
+    "text": "Jika 7 × n = 161,<br>maka 3 × n = ?",
+    "ans": "69",
+    "bahas": "n = 161/7 = 23. Maka 3 × 23 = 69"
+  },
+  {
+    "text": "Jika 3 × n = 84,<br>maka 7 × n = ?",
+    "ans": "196",
+    "bahas": "n = 84/3 = 28. Maka 7 × 28 = 196"
+  },
+  {
+    "text": "Jika 4 × n = 136,<br>maka 6 × n = ?",
+    "ans": "204",
+    "bahas": "n = 136/4 = 34. Maka 6 × 34 = 204"
+  },
+  {
+    "text": "Jika 5 × n = 85,<br>maka 5 × n = ?",
+    "ans": "85",
+    "bahas": "n = 85/5 = 17. Maka 5 × 17 = 85"
+  },
+  {
+    "text": "Jika 8 × n = 120,<br>maka 2 × n = ?",
+    "ans": "30",
+    "bahas": "n = 120/8 = 15. Maka 2 × 15 = 30"
+  },
+  {
+    "text": "Jika 6 × n = 222,<br>maka 4 × n = ?",
+    "ans": "148",
+    "bahas": "n = 222/6 = 37. Maka 4 × 37 = 148"
+  },
+  {
+    "text": "Jika 6 × n = 102,<br>maka 4 × n = ?",
+    "ans": "68",
+    "bahas": "n = 102/6 = 17. Maka 4 × 17 = 68"
+  },
+  {
+    "text": "Jika 4 × n = 160,<br>maka 6 × n = ?",
+    "ans": "240",
+    "bahas": "n = 160/4 = 40. Maka 6 × 40 = 240"
+  },
+  {
+    "text": "Jika 6 × n = 84,<br>maka 4 × n = ?",
+    "ans": "56",
+    "bahas": "n = 84/6 = 14. Maka 4 × 14 = 56"
+  },
+  {
+    "text": "Jika 4 × n = 160,<br>maka 6 × n = ?",
+    "ans": "240",
+    "bahas": "n = 160/4 = 40. Maka 6 × 40 = 240"
+  },
+  {
+    "text": "Jika 8 × n = 360,<br>maka 2 × n = ?",
+    "ans": "90",
+    "bahas": "n = 360/8 = 45. Maka 2 × 45 = 90"
+  },
+  {
+    "text": "Jika 3 × n = 57,<br>maka 7 × n = ?",
+    "ans": "133",
+    "bahas": "n = 57/3 = 19. Maka 7 × 19 = 133"
+  },
+  {
+    "text": "Jika 8 × n = 136,<br>maka 2 × n = ?",
+    "ans": "34",
+    "bahas": "n = 136/8 = 17. Maka 2 × 17 = 34"
+  },
+  {
+    "text": "Jika 6 × n = 234,<br>maka 4 × n = ?",
+    "ans": "156",
+    "bahas": "n = 234/6 = 39. Maka 4 × 39 = 156"
+  },
+  {
+    "text": "Jika 8 × n = 184,<br>maka 2 × n = ?",
+    "ans": "46",
+    "bahas": "n = 184/8 = 23. Maka 2 × 23 = 46"
+  },
+  {
+    "text": "Jika 4 × n = 136,<br>maka 6 × n = ?",
+    "ans": "204",
+    "bahas": "n = 136/4 = 34. Maka 6 × 34 = 204"
+  },
+  {
+    "text": "Jika 3 × n = 57,<br>maka 7 × n = ?",
+    "ans": "133",
+    "bahas": "n = 57/3 = 19. Maka 7 × 19 = 133"
+  },
+  {
+    "text": "Jika 5 × n = 245,<br>maka 5 × n = ?",
+    "ans": "245",
+    "bahas": "n = 245/5 = 49. Maka 5 × 49 = 245"
+  },
+  {
+    "text": "Jika 3 × n = 123,<br>maka 7 × n = ?",
+    "ans": "287",
+    "bahas": "n = 123/3 = 41. Maka 7 × 41 = 287"
+  },
+  {
+    "text": "Jika 6 × n = 240,<br>maka 4 × n = ?",
+    "ans": "160",
+    "bahas": "n = 240/6 = 40. Maka 4 × 40 = 160"
+  },
+  {
+    "text": "Jika 5 × n = 240,<br>maka 5 × n = ?",
+    "ans": "240",
+    "bahas": "n = 240/5 = 48. Maka 5 × 48 = 240"
+  },
+  {
+    "text": "Jika 4 × n = 180,<br>maka 6 × n = ?",
+    "ans": "270",
+    "bahas": "n = 180/4 = 45. Maka 6 × 45 = 270"
+  },
+  {
+    "text": "Jika 4 × n = 76,<br>maka 6 × n = ?",
+    "ans": "114",
+    "bahas": "n = 76/4 = 19. Maka 6 × 19 = 114"
+  },
+  {
+    "text": "Jika 6 × n = 120,<br>maka 4 × n = ?",
+    "ans": "80",
+    "bahas": "n = 120/6 = 20. Maka 4 × 20 = 80"
+  },
+  {
+    "text": "Jika 5 × n = 205,<br>maka 5 × n = ?",
+    "ans": "205",
+    "bahas": "n = 205/5 = 41. Maka 5 × 41 = 205"
+  },
+  {
+    "text": "Jika 4 × n = 140,<br>maka 6 × n = ?",
+    "ans": "210",
+    "bahas": "n = 140/4 = 35. Maka 6 × 35 = 210"
+  },
+  {
+    "text": "Jika 6 × n = 294,<br>maka 4 × n = ?",
+    "ans": "196",
+    "bahas": "n = 294/6 = 49. Maka 4 × 49 = 196"
+  },
+  {
+    "text": "Jika 5 × n = 75,<br>maka 5 × n = ?",
+    "ans": "75",
+    "bahas": "n = 75/5 = 15. Maka 5 × 15 = 75"
+  },
+  {
+    "text": "Jika 8 × n = 160,<br>maka 2 × n = ?",
+    "ans": "40",
+    "bahas": "n = 160/8 = 20. Maka 2 × 20 = 40"
+  },
+  {
+    "text": "Jika 4 × n = 172,<br>maka 6 × n = ?",
+    "ans": "258",
+    "bahas": "n = 172/4 = 43. Maka 6 × 43 = 258"
+  },
+  {
+    "text": "Jika 8 × n = 128,<br>maka 2 × n = ?",
+    "ans": "32",
+    "bahas": "n = 128/8 = 16. Maka 2 × 16 = 32"
+  },
+  {
+    "text": "Jika 6 × n = 270,<br>maka 4 × n = ?",
+    "ans": "180",
+    "bahas": "n = 270/6 = 45. Maka 4 × 45 = 180"
+  },
+  {
+    "text": "Jika 5 × n = 230,<br>maka 5 × n = ?",
+    "ans": "230",
+    "bahas": "n = 230/5 = 46. Maka 5 × 46 = 230"
+  },
+  {
+    "text": "Jika 9 × n = 432,<br>maka 1 × n = ?",
+    "ans": "48",
+    "bahas": "n = 432/9 = 48. Maka 1 × 48 = 48"
+  },
+  {
+    "text": "Jika 5 × n = 195,<br>maka 5 × n = ?",
+    "ans": "195",
+    "bahas": "n = 195/5 = 39. Maka 5 × 39 = 195"
+  },
+  {
+    "text": "Jika 4 × n = 140,<br>maka 6 × n = ?",
+    "ans": "210",
+    "bahas": "n = 140/4 = 35. Maka 6 × 35 = 210"
+  },
+  {
+    "text": "Jika 9 × n = 261,<br>maka 1 × n = ?",
+    "ans": "29",
+    "bahas": "n = 261/9 = 29. Maka 1 × 29 = 29"
+  },
+  {
+    "text": "Jika 7 × n = 266,<br>maka 3 × n = ?",
+    "ans": "114",
+    "bahas": "n = 266/7 = 38. Maka 3 × 38 = 114"
+  },
+  {
+    "text": "Jika 4 × n = 108,<br>maka 6 × n = ?",
+    "ans": "162",
+    "bahas": "n = 108/4 = 27. Maka 6 × 27 = 162"
+  },
+  {
+    "text": "Jika 3 × n = 99,<br>maka 7 × n = ?",
+    "ans": "231",
+    "bahas": "n = 99/3 = 33. Maka 7 × 33 = 231"
+  },
+  {
+    "text": "Jika 3 × n = 84,<br>maka 7 × n = ?",
+    "ans": "196",
+    "bahas": "n = 84/3 = 28. Maka 7 × 28 = 196"
+  },
+  {
+    "text": "Jika 3 × n = 108,<br>maka 7 × n = ?",
+    "ans": "252",
+    "bahas": "n = 108/3 = 36. Maka 7 × 36 = 252"
+  },
+  {
+    "text": "Jika 3 × n = 138,<br>maka 7 × n = ?",
+    "ans": "322",
+    "bahas": "n = 138/3 = 46. Maka 7 × 46 = 322"
+  },
+  {
+    "text": "Jika 8 × n = 88,<br>maka 2 × n = ?",
+    "ans": "22",
+    "bahas": "n = 88/8 = 11. Maka 2 × 11 = 22"
+  },
+  {
+    "text": "Jika 3 × n = 42,<br>maka 7 × n = ?",
+    "ans": "98",
+    "bahas": "n = 42/3 = 14. Maka 7 × 14 = 98"
+  },
+  {
+    "text": "Jika 5 × n = 210,<br>maka 5 × n = ?",
+    "ans": "210",
+    "bahas": "n = 210/5 = 42. Maka 5 × 42 = 210"
+  },
+  {
+    "text": "Jika 6 × n = 90,<br>maka 4 × n = ?",
+    "ans": "60",
+    "bahas": "n = 90/6 = 15. Maka 4 × 15 = 60"
+  },
+  {
+    "text": "Jika 4 × n = 120,<br>maka 6 × n = ?",
+    "ans": "180",
+    "bahas": "n = 120/4 = 30. Maka 6 × 30 = 180"
+  },
+  {
+    "text": "Jika 5 × n = 155,<br>maka 5 × n = ?",
+    "ans": "155",
+    "bahas": "n = 155/5 = 31. Maka 5 × 31 = 155"
+  },
+  {
+    "text": "Jika 7 × n = 161,<br>maka 3 × n = ?",
+    "ans": "69",
+    "bahas": "n = 161/7 = 23. Maka 3 × 23 = 69"
+  },
+  {
+    "text": "Jika 4 × n = 176,<br>maka 6 × n = ?",
+    "ans": "264",
+    "bahas": "n = 176/4 = 44. Maka 6 × 44 = 264"
+  },
+  {
+    "text": "Jika 3 × n = 45,<br>maka 7 × n = ?",
+    "ans": "105",
+    "bahas": "n = 45/3 = 15. Maka 7 × 15 = 105"
+  },
+  {
+    "text": "Jika 5 × n = 100,<br>maka 5 × n = ?",
+    "ans": "100",
+    "bahas": "n = 100/5 = 20. Maka 5 × 20 = 100"
+  },
+  {
+    "text": "Jika 3 × n = 84,<br>maka 7 × n = ?",
+    "ans": "196",
+    "bahas": "n = 84/3 = 28. Maka 7 × 28 = 196"
+  },
+  {
+    "text": "Jika 7 × n = 294,<br>maka 3 × n = ?",
+    "ans": "126",
+    "bahas": "n = 294/7 = 42. Maka 3 × 42 = 126"
+  },
+  {
+    "text": "Jika 3 × n = 48,<br>maka 7 × n = ?",
+    "ans": "112",
+    "bahas": "n = 48/3 = 16. Maka 7 × 16 = 112"
+  },
+  {
+    "text": "Jika 6 × n = 120,<br>maka 4 × n = ?",
+    "ans": "80",
+    "bahas": "n = 120/6 = 20. Maka 4 × 20 = 80"
+  },
+  {
+    "text": "Jika 7 × n = 140,<br>maka 3 × n = ?",
+    "ans": "60",
+    "bahas": "n = 140/7 = 20. Maka 3 × 20 = 60"
+  },
+  {
+    "text": "Jika 6 × n = 84,<br>maka 4 × n = ?",
+    "ans": "56",
+    "bahas": "n = 84/6 = 14. Maka 4 × 14 = 56"
+  },
+  {
+    "text": "Jika 7 × n = 98,<br>maka 3 × n = ?",
+    "ans": "42",
+    "bahas": "n = 98/7 = 14. Maka 3 × 14 = 42"
+  },
+  {
+    "text": "Jika 4 × n = 116,<br>maka 6 × n = ?",
+    "ans": "174",
+    "bahas": "n = 116/4 = 29. Maka 6 × 29 = 174"
+  },
+  {
+    "text": "Jika 8 × n = 224,<br>maka 2 × n = ?",
+    "ans": "56",
+    "bahas": "n = 224/8 = 28. Maka 2 × 28 = 56"
+  },
+  {
+    "text": "Jika 4 × n = 164,<br>maka 6 × n = ?",
+    "ans": "246",
+    "bahas": "n = 164/4 = 41. Maka 6 × 41 = 246"
+  },
+  {
+    "text": "Jika 9 × n = 117,<br>maka 1 × n = ?",
+    "ans": "13",
+    "bahas": "n = 117/9 = 13. Maka 1 × 13 = 13"
+  },
+  {
+    "text": "Jika 5 × n = 210,<br>maka 5 × n = ?",
+    "ans": "210",
+    "bahas": "n = 210/5 = 42. Maka 5 × 42 = 210"
+  },
+  {
+    "text": "Jika 5 × n = 110,<br>maka 5 × n = ?",
+    "ans": "110",
+    "bahas": "n = 110/5 = 22. Maka 5 × 22 = 110"
+  },
+  {
+    "text": "Jika 6 × n = 294,<br>maka 4 × n = ?",
+    "ans": "196",
+    "bahas": "n = 294/6 = 49. Maka 4 × 49 = 196"
+  },
+  {
+    "text": "Jika 4 × n = 64,<br>maka 6 × n = ?",
+    "ans": "96",
+    "bahas": "n = 64/4 = 16. Maka 6 × 16 = 96"
+  },
+  {
+    "text": "Jika 6 × n = 138,<br>maka 4 × n = ?",
+    "ans": "92",
+    "bahas": "n = 138/6 = 23. Maka 4 × 23 = 92"
+  },
+  {
+    "text": "Jika 7 × n = 266,<br>maka 3 × n = ?",
+    "ans": "114",
+    "bahas": "n = 266/7 = 38. Maka 3 × 38 = 114"
+  },
+  {
+    "text": "Jika 7 × n = 112,<br>maka 3 × n = ?",
+    "ans": "48",
+    "bahas": "n = 112/7 = 16. Maka 3 × 16 = 48"
+  },
+  {
+    "text": "Jika 8 × n = 288,<br>maka 2 × n = ?",
+    "ans": "72",
+    "bahas": "n = 288/8 = 36. Maka 2 × 36 = 72"
+  },
+  {
+    "text": "Jika 4 × n = 196,<br>maka 6 × n = ?",
+    "ans": "294",
+    "bahas": "n = 196/4 = 49. Maka 6 × 49 = 294"
+  },
+  {
+    "text": "Jika 9 × n = 396,<br>maka 1 × n = ?",
+    "ans": "44",
+    "bahas": "n = 396/9 = 44. Maka 1 × 44 = 44"
+  },
+  {
+    "text": "Jika 4 × n = 84,<br>maka 6 × n = ?",
+    "ans": "126",
+    "bahas": "n = 84/4 = 21. Maka 6 × 21 = 126"
+  },
+  {
+    "text": "Jika 4 × n = 56,<br>maka 6 × n = ?",
+    "ans": "84",
+    "bahas": "n = 56/4 = 14. Maka 6 × 14 = 84"
+  },
+  {
+    "text": "Jika 6 × n = 144,<br>maka 4 × n = ?",
+    "ans": "96",
+    "bahas": "n = 144/6 = 24. Maka 4 × 24 = 96"
+  },
+  {
+    "text": "Jika 6 × n = 180,<br>maka 4 × n = ?",
+    "ans": "120",
+    "bahas": "n = 180/6 = 30. Maka 4 × 30 = 120"
+  },
+  {
+    "text": "Jika 6 × n = 162,<br>maka 4 × n = ?",
+    "ans": "108",
+    "bahas": "n = 162/6 = 27. Maka 4 × 27 = 108"
+  },
+  {
+    "text": "Jika 3 × n = 48,<br>maka 7 × n = ?",
+    "ans": "112",
+    "bahas": "n = 48/3 = 16. Maka 7 × 16 = 112"
+  },
+  {
+    "text": "Jika 6 × n = 282,<br>maka 4 × n = ?",
+    "ans": "188",
+    "bahas": "n = 282/6 = 47. Maka 4 × 47 = 188"
+  },
+  {
+    "text": "Jika 6 × n = 240,<br>maka 4 × n = ?",
+    "ans": "160",
+    "bahas": "n = 240/6 = 40. Maka 4 × 40 = 160"
+  },
+  {
+    "text": "Jika 9 × n = 396,<br>maka 1 × n = ?",
+    "ans": "44",
+    "bahas": "n = 396/9 = 44. Maka 1 × 44 = 44"
+  },
+  {
+    "text": "Jika 9 × n = 171,<br>maka 1 × n = ?",
+    "ans": "19",
+    "bahas": "n = 171/9 = 19. Maka 1 × 19 = 19"
+  },
+  {
+    "text": "Jika 5 × n = 135,<br>maka 5 × n = ?",
+    "ans": "135",
+    "bahas": "n = 135/5 = 27. Maka 5 × 27 = 135"
+  },
+  {
+    "text": "Jika 3 × n = 99,<br>maka 7 × n = ?",
+    "ans": "231",
+    "bahas": "n = 99/3 = 33. Maka 7 × 33 = 231"
+  },
+  {
+    "text": "Jika 7 × n = 329,<br>maka 3 × n = ?",
+    "ans": "141",
+    "bahas": "n = 329/7 = 47. Maka 3 × 47 = 141"
+  },
+  {
+    "text": "Jika 3 × n = 81,<br>maka 7 × n = ?",
+    "ans": "189",
+    "bahas": "n = 81/3 = 27. Maka 7 × 27 = 189"
+  },
+  {
+    "text": "Jika 5 × n = 115,<br>maka 5 × n = ?",
+    "ans": "115",
+    "bahas": "n = 115/5 = 23. Maka 5 × 23 = 115"
+  },
+  {
+    "text": "Jika 9 × n = 405,<br>maka 1 × n = ?",
+    "ans": "45",
+    "bahas": "n = 405/9 = 45. Maka 1 × 45 = 45"
+  },
+  {
+    "text": "Jika 8 × n = 192,<br>maka 2 × n = ?",
+    "ans": "48",
+    "bahas": "n = 192/8 = 24. Maka 2 × 24 = 48"
+  },
+  {
+    "text": "Jika 8 × n = 248,<br>maka 2 × n = ?",
+    "ans": "62",
+    "bahas": "n = 248/8 = 31. Maka 2 × 31 = 62"
+  },
+  {
+    "text": "Jika 6 × n = 174,<br>maka 4 × n = ?",
+    "ans": "116",
+    "bahas": "n = 174/6 = 29. Maka 4 × 29 = 116"
+  },
+  {
+    "text": "Jika 7 × n = 91,<br>maka 3 × n = ?",
+    "ans": "39",
+    "bahas": "n = 91/7 = 13. Maka 3 × 13 = 39"
+  },
+  {
+    "text": "Jika 8 × n = 200,<br>maka 2 × n = ?",
+    "ans": "50",
+    "bahas": "n = 200/8 = 25. Maka 2 × 25 = 50"
+  },
+  {
+    "text": "Jika 4 × n = 132,<br>maka 6 × n = ?",
+    "ans": "198",
+    "bahas": "n = 132/4 = 33. Maka 6 × 33 = 198"
+  },
+  {
+    "text": "Jika 7 × n = 105,<br>maka 3 × n = ?",
+    "ans": "45",
+    "bahas": "n = 105/7 = 15. Maka 3 × 15 = 45"
+  },
+  {
+    "text": "Jika 6 × n = 204,<br>maka 4 × n = ?",
+    "ans": "136",
+    "bahas": "n = 204/6 = 34. Maka 4 × 34 = 136"
+  },
+  {
+    "text": "Jika 7 × n = 84,<br>maka 3 × n = ?",
+    "ans": "36",
+    "bahas": "n = 84/7 = 12. Maka 3 × 12 = 36"
+  },
+  {
+    "text": "Jika 8 × n = 136,<br>maka 2 × n = ?",
+    "ans": "34",
+    "bahas": "n = 136/8 = 17. Maka 2 × 17 = 34"
+  },
+  {
+    "text": "Jika 8 × n = 248,<br>maka 2 × n = ?",
+    "ans": "62",
+    "bahas": "n = 248/8 = 31. Maka 2 × 31 = 62"
+  },
+  {
+    "text": "Jika 3 × n = 63,<br>maka 7 × n = ?",
+    "ans": "147",
+    "bahas": "n = 63/3 = 21. Maka 7 × 21 = 147"
+  },
+  {
+    "text": "Jika 3 × n = 99,<br>maka 7 × n = ?",
+    "ans": "231",
+    "bahas": "n = 99/3 = 33. Maka 7 × 33 = 231"
+  },
+  {
+    "text": "Jika 4 × n = 164,<br>maka 6 × n = ?",
+    "ans": "246",
+    "bahas": "n = 164/4 = 41. Maka 6 × 41 = 246"
+  },
+  {
+    "text": "Jika 4 × n = 84,<br>maka 6 × n = ?",
+    "ans": "126",
+    "bahas": "n = 84/4 = 21. Maka 6 × 21 = 126"
+  },
+  {
+    "text": "Jika 4 × n = 168,<br>maka 6 × n = ?",
+    "ans": "252",
+    "bahas": "n = 168/4 = 42. Maka 6 × 42 = 252"
+  },
+  {
+    "text": "Jika 3 × n = 147,<br>maka 7 × n = ?",
+    "ans": "343",
+    "bahas": "n = 147/3 = 49. Maka 7 × 49 = 343"
+  },
+  {
+    "text": "Jika 7 × n = 126,<br>maka 3 × n = ?",
+    "ans": "54",
+    "bahas": "n = 126/7 = 18. Maka 3 × 18 = 54"
+  },
+  {
+    "text": "Jika 9 × n = 189,<br>maka 1 × n = ?",
+    "ans": "21",
+    "bahas": "n = 189/9 = 21. Maka 1 × 21 = 21"
+  },
+  {
+    "text": "Jika 6 × n = 294,<br>maka 4 × n = ?",
+    "ans": "196",
+    "bahas": "n = 294/6 = 49. Maka 4 × 49 = 196"
+  },
+  {
+    "text": "Jika 8 × n = 336,<br>maka 2 × n = ?",
+    "ans": "84",
+    "bahas": "n = 336/8 = 42. Maka 2 × 42 = 84"
+  },
+  {
+    "text": "Jika 8 × n = 376,<br>maka 2 × n = ?",
+    "ans": "94",
+    "bahas": "n = 376/8 = 47. Maka 2 × 47 = 94"
+  },
+  {
+    "text": "Jika 5 × n = 230,<br>maka 5 × n = ?",
+    "ans": "230",
+    "bahas": "n = 230/5 = 46. Maka 5 × 46 = 230"
+  },
+  {
+    "text": "Jika 6 × n = 150,<br>maka 4 × n = ?",
+    "ans": "100",
+    "bahas": "n = 150/6 = 25. Maka 4 × 25 = 100"
+  },
+  {
+    "text": "Jika 7 × n = 343,<br>maka 3 × n = ?",
+    "ans": "147",
+    "bahas": "n = 343/7 = 49. Maka 3 × 49 = 147"
+  },
+  {
+    "text": "Jika 5 × n = 220,<br>maka 5 × n = ?",
+    "ans": "220",
+    "bahas": "n = 220/5 = 44. Maka 5 × 44 = 220"
+  },
+  {
+    "text": "Jika 5 × n = 100,<br>maka 5 × n = ?",
+    "ans": "100",
+    "bahas": "n = 100/5 = 20. Maka 5 × 20 = 100"
+  },
+  {
+    "text": "Jika 7 × n = 189,<br>maka 3 × n = ?",
+    "ans": "81",
+    "bahas": "n = 189/7 = 27. Maka 3 × 27 = 81"
+  },
+  {
+    "text": "Jika 9 × n = 135,<br>maka 1 × n = ?",
+    "ans": "15",
+    "bahas": "n = 135/9 = 15. Maka 1 × 15 = 15"
+  },
+  {
+    "text": "Jika 8 × n = 296,<br>maka 2 × n = ?",
+    "ans": "74",
+    "bahas": "n = 296/8 = 37. Maka 2 × 37 = 74"
+  },
+  {
+    "text": "Jika 7 × n = 287,<br>maka 3 × n = ?",
+    "ans": "123",
+    "bahas": "n = 287/7 = 41. Maka 3 × 41 = 123"
+  },
+  {
+    "text": "Jika 4 × n = 92,<br>maka 6 × n = ?",
+    "ans": "138",
+    "bahas": "n = 92/4 = 23. Maka 6 × 23 = 138"
+  },
+  {
+    "text": "Jika 9 × n = 108,<br>maka 1 × n = ?",
+    "ans": "12",
+    "bahas": "n = 108/9 = 12. Maka 1 × 12 = 12"
+  },
+  {
+    "text": "Jika 6 × n = 294,<br>maka 4 × n = ?",
+    "ans": "196",
+    "bahas": "n = 294/6 = 49. Maka 4 × 49 = 196"
+  },
+  {
+    "text": "Jika 4 × n = 96,<br>maka 6 × n = ?",
+    "ans": "144",
+    "bahas": "n = 96/4 = 24. Maka 6 × 24 = 144"
+  },
+  {
+    "text": "Jika 7 × n = 217,<br>maka 3 × n = ?",
+    "ans": "93",
+    "bahas": "n = 217/7 = 31. Maka 3 × 31 = 93"
+  },
+  {
+    "text": "Jika 8 × n = 336,<br>maka 2 × n = ?",
+    "ans": "84",
+    "bahas": "n = 336/8 = 42. Maka 2 × 42 = 84"
+  },
+  {
+    "text": "Jika 8 × n = 96,<br>maka 2 × n = ?",
+    "ans": "24",
+    "bahas": "n = 96/8 = 12. Maka 2 × 12 = 24"
+  },
+  {
+    "text": "Jika 6 × n = 192,<br>maka 4 × n = ?",
+    "ans": "128",
+    "bahas": "n = 192/6 = 32. Maka 4 × 32 = 128"
+  },
+  {
+    "text": "Jika 9 × n = 333,<br>maka 1 × n = ?",
+    "ans": "37",
+    "bahas": "n = 333/9 = 37. Maka 1 × 37 = 37"
+  },
+  {
+    "text": "Jika 4 × n = 92,<br>maka 6 × n = ?",
+    "ans": "138",
+    "bahas": "n = 92/4 = 23. Maka 6 × 23 = 138"
+  },
+  {
+    "text": "Jika 3 × n = 99,<br>maka 7 × n = ?",
+    "ans": "231",
+    "bahas": "n = 99/3 = 33. Maka 7 × 33 = 231"
+  },
+  {
+    "text": "Jika 8 × n = 208,<br>maka 2 × n = ?",
+    "ans": "52",
+    "bahas": "n = 208/8 = 26. Maka 2 × 26 = 52"
+  },
+  {
+    "text": "Jika 9 × n = 162,<br>maka 1 × n = ?",
+    "ans": "18",
+    "bahas": "n = 162/9 = 18. Maka 1 × 18 = 18"
+  },
+  {
+    "text": "Jika 3 × n = 126,<br>maka 7 × n = ?",
+    "ans": "294",
+    "bahas": "n = 126/3 = 42. Maka 7 × 42 = 294"
+  },
+  {
+    "text": "Jika 5 × n = 190,<br>maka 5 × n = ?",
+    "ans": "190",
+    "bahas": "n = 190/5 = 38. Maka 5 × 38 = 190"
+  },
+  {
+    "text": "Jika 4 × n = 88,<br>maka 6 × n = ?",
+    "ans": "132",
+    "bahas": "n = 88/4 = 22. Maka 6 × 22 = 132"
+  },
+  {
+    "text": "Jika 6 × n = 78,<br>maka 4 × n = ?",
+    "ans": "52",
+    "bahas": "n = 78/6 = 13. Maka 4 × 13 = 52"
+  },
+  {
+    "text": "Jika 5 × n = 55,<br>maka 5 × n = ?",
+    "ans": "55",
+    "bahas": "n = 55/5 = 11. Maka 5 × 11 = 55"
+  },
+  {
+    "text": "Jika 6 × n = 210,<br>maka 4 × n = ?",
+    "ans": "140",
+    "bahas": "n = 210/6 = 35. Maka 4 × 35 = 140"
+  },
+  {
+    "text": "Jika 7 × n = 126,<br>maka 3 × n = ?",
+    "ans": "54",
+    "bahas": "n = 126/7 = 18. Maka 3 × 18 = 54"
+  },
+  {
+    "text": "Jika 9 × n = 333,<br>maka 1 × n = ?",
+    "ans": "37",
+    "bahas": "n = 333/9 = 37. Maka 1 × 37 = 37"
+  },
+  {
+    "text": "Jika 4 × n = 104,<br>maka 6 × n = ?",
+    "ans": "156",
+    "bahas": "n = 104/4 = 26. Maka 6 × 26 = 156"
+  },
+  {
+    "text": "Jika 5 × n = 75,<br>maka 5 × n = ?",
+    "ans": "75",
+    "bahas": "n = 75/5 = 15. Maka 5 × 15 = 75"
+  },
+  {
+    "text": "Jika 8 × n = 376,<br>maka 2 × n = ?",
+    "ans": "94",
+    "bahas": "n = 376/8 = 47. Maka 2 × 47 = 94"
+  },
+  {
+    "text": "Jika 3 × n = 42,<br>maka 7 × n = ?",
+    "ans": "98",
+    "bahas": "n = 42/3 = 14. Maka 7 × 14 = 98"
+  },
+  {
+    "text": "Jika 8 × n = 184,<br>maka 2 × n = ?",
+    "ans": "46",
+    "bahas": "n = 184/8 = 23. Maka 2 × 23 = 46"
+  },
+  {
+    "text": "Jika 3 × n = 63,<br>maka 7 × n = ?",
+    "ans": "147",
+    "bahas": "n = 63/3 = 21. Maka 7 × 21 = 147"
+  },
+  {
+    "text": "Jika 3 × n = 78,<br>maka 7 × n = ?",
+    "ans": "182",
+    "bahas": "n = 78/3 = 26. Maka 7 × 26 = 182"
+  },
+  {
+    "text": "Jika 4 × n = 144,<br>maka 6 × n = ?",
+    "ans": "216",
+    "bahas": "n = 144/4 = 36. Maka 6 × 36 = 216"
+  },
+  {
+    "text": "Jika 4 × n = 168,<br>maka 6 × n = ?",
+    "ans": "252",
+    "bahas": "n = 168/4 = 42. Maka 6 × 42 = 252"
+  },
+  {
+    "text": "Jika 5 × n = 75,<br>maka 5 × n = ?",
+    "ans": "75",
+    "bahas": "n = 75/5 = 15. Maka 5 × 15 = 75"
+  },
+  {
+    "text": "Jika 9 × n = 351,<br>maka 1 × n = ?",
+    "ans": "39",
+    "bahas": "n = 351/9 = 39. Maka 1 × 39 = 39"
+  },
+  {
+    "text": "Jika 8 × n = 264,<br>maka 2 × n = ?",
+    "ans": "66",
+    "bahas": "n = 264/8 = 33. Maka 2 × 33 = 66"
+  },
+  {
+    "text": "Jika 4 × n = 132,<br>maka 6 × n = ?",
+    "ans": "198",
+    "bahas": "n = 132/4 = 33. Maka 6 × 33 = 198"
+  },
+  {
+    "text": "Jika 3 × n = 102,<br>maka 7 × n = ?",
+    "ans": "238",
+    "bahas": "n = 102/3 = 34. Maka 7 × 34 = 238"
+  },
+  {
+    "text": "Jika 9 × n = 162,<br>maka 1 × n = ?",
+    "ans": "18",
+    "bahas": "n = 162/9 = 18. Maka 1 × 18 = 18"
+  },
+  {
+    "text": "Jika 5 × n = 160,<br>maka 5 × n = ?",
+    "ans": "160",
+    "bahas": "n = 160/5 = 32. Maka 5 × 32 = 160"
+  },
+  {
+    "text": "Jika 5 × n = 135,<br>maka 5 × n = ?",
+    "ans": "135",
+    "bahas": "n = 135/5 = 27. Maka 5 × 27 = 135"
+  },
+  {
+    "text": "Jika 3 × n = 102,<br>maka 7 × n = ?",
+    "ans": "238",
+    "bahas": "n = 102/3 = 34. Maka 7 × 34 = 238"
+  },
+  {
+    "text": "Jika 7 × n = 147,<br>maka 3 × n = ?",
+    "ans": "63",
+    "bahas": "n = 147/7 = 21. Maka 3 × 21 = 63"
+  },
+  {
+    "text": "Jika 3 × n = 129,<br>maka 7 × n = ?",
+    "ans": "301",
+    "bahas": "n = 129/3 = 43. Maka 7 × 43 = 301"
+  },
+  {
+    "text": "Jika 7 × n = 315,<br>maka 3 × n = ?",
+    "ans": "135",
+    "bahas": "n = 315/7 = 45. Maka 3 × 45 = 135"
+  },
+  {
+    "text": "Jika 7 × n = 245,<br>maka 3 × n = ?",
+    "ans": "105",
+    "bahas": "n = 245/7 = 35. Maka 3 × 35 = 105"
+  },
+  {
+    "text": "Jika 4 × n = 76,<br>maka 6 × n = ?",
+    "ans": "114",
+    "bahas": "n = 76/4 = 19. Maka 6 × 19 = 114"
+  },
+  {
+    "text": "Jika 5 × n = 195,<br>maka 5 × n = ?",
+    "ans": "195",
+    "bahas": "n = 195/5 = 39. Maka 5 × 39 = 195"
+  },
+  {
+    "text": "Jika 4 × n = 116,<br>maka 6 × n = ?",
+    "ans": "174",
+    "bahas": "n = 116/4 = 29. Maka 6 × 29 = 174"
+  },
+  {
+    "text": "Jika 8 × n = 224,<br>maka 2 × n = ?",
+    "ans": "56",
+    "bahas": "n = 224/8 = 28. Maka 2 × 28 = 56"
+  },
+  {
+    "text": "Jika 4 × n = 96,<br>maka 6 × n = ?",
+    "ans": "144",
+    "bahas": "n = 96/4 = 24. Maka 6 × 24 = 144"
+  },
+  {
+    "text": "Jika 8 × n = 256,<br>maka 2 × n = ?",
+    "ans": "64",
+    "bahas": "n = 256/8 = 32. Maka 2 × 32 = 64"
+  },
+  {
+    "text": "Jika 5 × n = 215,<br>maka 5 × n = ?",
+    "ans": "215",
+    "bahas": "n = 215/5 = 43. Maka 5 × 43 = 215"
+  },
+  {
+    "text": "Jika 4 × n = 116,<br>maka 6 × n = ?",
+    "ans": "174",
+    "bahas": "n = 116/4 = 29. Maka 6 × 29 = 174"
+  },
+  {
+    "text": "Jika 9 × n = 108,<br>maka 1 × n = ?",
+    "ans": "12",
+    "bahas": "n = 108/9 = 12. Maka 1 × 12 = 12"
+  },
+  {
+    "text": "Jika 6 × n = 222,<br>maka 4 × n = ?",
+    "ans": "148",
+    "bahas": "n = 222/6 = 37. Maka 4 × 37 = 148"
+  },
+  {
+    "text": "Jika 4 × n = 152,<br>maka 6 × n = ?",
+    "ans": "228",
+    "bahas": "n = 152/4 = 38. Maka 6 × 38 = 228"
+  },
+  {
+    "text": "Jika 5 × n = 165,<br>maka 5 × n = ?",
+    "ans": "165",
+    "bahas": "n = 165/5 = 33. Maka 5 × 33 = 165"
+  },
+  {
+    "text": "Jika 7 × n = 84,<br>maka 3 × n = ?",
+    "ans": "36",
+    "bahas": "n = 84/7 = 12. Maka 3 × 12 = 36"
+  },
+  {
+    "text": "Jika 9 × n = 279,<br>maka 1 × n = ?",
+    "ans": "31",
+    "bahas": "n = 279/9 = 31. Maka 1 × 31 = 31"
+  },
+  {
+    "text": "Jika 6 × n = 234,<br>maka 4 × n = ?",
+    "ans": "156",
+    "bahas": "n = 234/6 = 39. Maka 4 × 39 = 156"
+  },
+  {
+    "text": "Jika 5 × n = 140,<br>maka 5 × n = ?",
+    "ans": "140",
+    "bahas": "n = 140/5 = 28. Maka 5 × 28 = 140"
+  },
+  {
+    "text": "Jika 5 × n = 205,<br>maka 5 × n = ?",
+    "ans": "205",
+    "bahas": "n = 205/5 = 41. Maka 5 × 41 = 205"
+  },
+  {
+    "text": "Jika 3 × n = 78,<br>maka 7 × n = ?",
+    "ans": "182",
+    "bahas": "n = 78/3 = 26. Maka 7 × 26 = 182"
+  },
+  {
+    "text": "Jika 3 × n = 66,<br>maka 7 × n = ?",
+    "ans": "154",
+    "bahas": "n = 66/3 = 22. Maka 7 × 22 = 154"
+  },
+  {
+    "text": "Jika 6 × n = 180,<br>maka 4 × n = ?",
+    "ans": "120",
+    "bahas": "n = 180/6 = 30. Maka 4 × 30 = 120"
+  },
+  {
+    "text": "Jika 7 × n = 77,<br>maka 3 × n = ?",
+    "ans": "33",
+    "bahas": "n = 77/7 = 11. Maka 3 × 11 = 33"
+  },
+  {
+    "text": "Jika 8 × n = 224,<br>maka 2 × n = ?",
+    "ans": "56",
+    "bahas": "n = 224/8 = 28. Maka 2 × 28 = 56"
+  },
+  {
+    "text": "Jika 9 × n = 414,<br>maka 1 × n = ?",
+    "ans": "46",
+    "bahas": "n = 414/9 = 46. Maka 1 × 46 = 46"
+  },
+  {
+    "text": "Jika 8 × n = 88,<br>maka 2 × n = ?",
+    "ans": "22",
+    "bahas": "n = 88/8 = 11. Maka 2 × 11 = 22"
+  },
+  {
+    "text": "Jika 3 × n = 141,<br>maka 7 × n = ?",
+    "ans": "329",
+    "bahas": "n = 141/3 = 47. Maka 7 × 47 = 329"
+  },
+  {
+    "text": "Jika 6 × n = 276,<br>maka 4 × n = ?",
+    "ans": "184",
+    "bahas": "n = 276/6 = 46. Maka 4 × 46 = 184"
+  },
+  {
+    "text": "Jika 9 × n = 288,<br>maka 1 × n = ?",
+    "ans": "32",
+    "bahas": "n = 288/9 = 32. Maka 1 × 32 = 32"
+  },
+  {
+    "text": "Jika 9 × n = 279,<br>maka 1 × n = ?",
+    "ans": "31",
+    "bahas": "n = 279/9 = 31. Maka 1 × 31 = 31"
+  },
+  {
+    "text": "Jika 4 × n = 128,<br>maka 6 × n = ?",
+    "ans": "192",
+    "bahas": "n = 128/4 = 32. Maka 6 × 32 = 192"
+  },
+  {
+    "text": "Jika 8 × n = 392,<br>maka 2 × n = ?",
+    "ans": "98",
+    "bahas": "n = 392/8 = 49. Maka 2 × 49 = 98"
+  },
+  {
+    "text": "Jika 9 × n = 153,<br>maka 1 × n = ?",
+    "ans": "17",
+    "bahas": "n = 153/9 = 17. Maka 1 × 17 = 17"
+  },
+  {
+    "text": "Jika 8 × n = 144,<br>maka 2 × n = ?",
+    "ans": "36",
+    "bahas": "n = 144/8 = 18. Maka 2 × 18 = 36"
+  },
+  {
+    "text": "Jika 6 × n = 228,<br>maka 4 × n = ?",
+    "ans": "152",
+    "bahas": "n = 228/6 = 38. Maka 4 × 38 = 152"
+  },
+  {
+    "text": "Jika 4 × n = 104,<br>maka 6 × n = ?",
+    "ans": "156",
+    "bahas": "n = 104/4 = 26. Maka 6 × 26 = 156"
+  },
+  {
+    "text": "Jika 8 × n = 136,<br>maka 2 × n = ?",
+    "ans": "34",
+    "bahas": "n = 136/8 = 17. Maka 2 × 17 = 34"
+  },
+  {
+    "text": "Jika 8 × n = 328,<br>maka 2 × n = ?",
+    "ans": "82",
+    "bahas": "n = 328/8 = 41. Maka 2 × 41 = 82"
+  },
+  {
+    "text": "Jika 5 × n = 115,<br>maka 5 × n = ?",
+    "ans": "115",
+    "bahas": "n = 115/5 = 23. Maka 5 × 23 = 115"
+  },
+  {
+    "text": "Jika 9 × n = 171,<br>maka 1 × n = ?",
+    "ans": "19",
+    "bahas": "n = 171/9 = 19. Maka 1 × 19 = 19"
+  },
+  {
+    "text": "Jika 5 × n = 115,<br>maka 5 × n = ?",
+    "ans": "115",
+    "bahas": "n = 115/5 = 23. Maka 5 × 23 = 115"
+  },
+  {
+    "text": "Jika 9 × n = 369,<br>maka 1 × n = ?",
+    "ans": "41",
+    "bahas": "n = 369/9 = 41. Maka 1 × 41 = 41"
+  },
+  {
+    "text": "Jika 3 × n = 117,<br>maka 7 × n = ?",
+    "ans": "273",
+    "bahas": "n = 117/3 = 39. Maka 7 × 39 = 273"
+  },
+  {
+    "text": "Jika 9 × n = 261,<br>maka 1 × n = ?",
+    "ans": "29",
+    "bahas": "n = 261/9 = 29. Maka 1 × 29 = 29"
+  },
+  {
+    "text": "Jika 4 × n = 128,<br>maka 6 × n = ?",
+    "ans": "192",
+    "bahas": "n = 128/4 = 32. Maka 6 × 32 = 192"
+  },
+  {
+    "text": "Jika 6 × n = 216,<br>maka 4 × n = ?",
+    "ans": "144",
+    "bahas": "n = 216/6 = 36. Maka 4 × 36 = 144"
+  },
+  {
+    "text": "Jika 7 × n = 273,<br>maka 3 × n = ?",
+    "ans": "117",
+    "bahas": "n = 273/7 = 39. Maka 3 × 39 = 117"
+  },
+  {
+    "text": "Jika 3 × n = 141,<br>maka 7 × n = ?",
+    "ans": "329",
+    "bahas": "n = 141/3 = 47. Maka 7 × 47 = 329"
+  },
+  {
+    "text": "Jika 3 × n = 78,<br>maka 7 × n = ?",
+    "ans": "182",
+    "bahas": "n = 78/3 = 26. Maka 7 × 26 = 182"
+  },
+  {
+    "text": "Jika 5 × n = 130,<br>maka 5 × n = ?",
+    "ans": "130",
+    "bahas": "n = 130/5 = 26. Maka 5 × 26 = 130"
+  },
+  {
+    "text": "Jika 6 × n = 144,<br>maka 4 × n = ?",
+    "ans": "96",
+    "bahas": "n = 144/6 = 24. Maka 4 × 24 = 96"
+  },
+  {
+    "text": "Jika 8 × n = 128,<br>maka 2 × n = ?",
+    "ans": "32",
+    "bahas": "n = 128/8 = 16. Maka 2 × 16 = 32"
+  },
+  {
+    "text": "Jika 6 × n = 210,<br>maka 4 × n = ?",
+    "ans": "140",
+    "bahas": "n = 210/6 = 35. Maka 4 × 35 = 140"
+  },
+  {
+    "text": "Jika 6 × n = 72,<br>maka 4 × n = ?",
+    "ans": "48",
+    "bahas": "n = 72/6 = 12. Maka 4 × 12 = 48"
+  },
+  {
+    "text": "Jika 7 × n = 231,<br>maka 3 × n = ?",
+    "ans": "99",
+    "bahas": "n = 231/7 = 33. Maka 3 × 33 = 99"
+  },
+  {
+    "text": "Jika 5 × n = 160,<br>maka 5 × n = ?",
+    "ans": "160",
+    "bahas": "n = 160/5 = 32. Maka 5 × 32 = 160"
+  },
+  {
+    "text": "Jika 7 × n = 329,<br>maka 3 × n = ?",
+    "ans": "141",
+    "bahas": "n = 329/7 = 47. Maka 3 × 47 = 141"
+  },
+  {
+    "text": "Jika 8 × n = 336,<br>maka 2 × n = ?",
+    "ans": "84",
+    "bahas": "n = 336/8 = 42. Maka 2 × 42 = 84"
+  },
+  {
+    "text": "Jika 7 × n = 147,<br>maka 3 × n = ?",
+    "ans": "63",
+    "bahas": "n = 147/7 = 21. Maka 3 × 21 = 63"
+  },
+  {
+    "text": "Jika 4 × n = 116,<br>maka 6 × n = ?",
+    "ans": "174",
+    "bahas": "n = 116/4 = 29. Maka 6 × 29 = 174"
+  },
+  {
+    "text": "Jika 7 × n = 217,<br>maka 3 × n = ?",
+    "ans": "93",
+    "bahas": "n = 217/7 = 31. Maka 3 × 31 = 93"
+  },
+  {
+    "text": "Jika 3 × n = 90,<br>maka 7 × n = ?",
+    "ans": "210",
+    "bahas": "n = 90/3 = 30. Maka 7 × 30 = 210"
+  },
+  {
+    "text": "Jika 8 × n = 384,<br>maka 2 × n = ?",
+    "ans": "96",
+    "bahas": "n = 384/8 = 48. Maka 2 × 48 = 96"
+  },
+  {
+    "text": "Jika 4 × n = 176,<br>maka 6 × n = ?",
+    "ans": "264",
+    "bahas": "n = 176/4 = 44. Maka 6 × 44 = 264"
+  },
+  {
+    "text": "Jika 9 × n = 108,<br>maka 1 × n = ?",
+    "ans": "12",
+    "bahas": "n = 108/9 = 12. Maka 1 × 12 = 12"
+  },
+  {
+    "text": "Jika 9 × n = 351,<br>maka 1 × n = ?",
+    "ans": "39",
+    "bahas": "n = 351/9 = 39. Maka 1 × 39 = 39"
+  },
+  {
+    "text": "Jika 9 × n = 324,<br>maka 1 × n = ?",
+    "ans": "36",
+    "bahas": "n = 324/9 = 36. Maka 1 × 36 = 36"
+  },
+  {
+    "text": "Jika 7 × n = 231,<br>maka 3 × n = ?",
+    "ans": "99",
+    "bahas": "n = 231/7 = 33. Maka 3 × 33 = 99"
+  },
+  {
+    "text": "Jika 7 × n = 273,<br>maka 3 × n = ?",
+    "ans": "117",
+    "bahas": "n = 273/7 = 39. Maka 3 × 39 = 117"
+  },
+  {
+    "text": "Jika 7 × n = 133,<br>maka 3 × n = ?",
+    "ans": "57",
+    "bahas": "n = 133/7 = 19. Maka 3 × 19 = 57"
+  },
+  {
+    "text": "Jika 3 × n = 126,<br>maka 7 × n = ?",
+    "ans": "294",
+    "bahas": "n = 126/3 = 42. Maka 7 × 42 = 294"
+  },
+  {
+    "text": "Jika 6 × n = 180,<br>maka 4 × n = ?",
+    "ans": "120",
+    "bahas": "n = 180/6 = 30. Maka 4 × 30 = 120"
+  },
+  {
+    "text": "Jika 3 × n = 93,<br>maka 7 × n = ?",
+    "ans": "217",
+    "bahas": "n = 93/3 = 31. Maka 7 × 31 = 217"
+  },
+  {
+    "text": "Jika 9 × n = 351,<br>maka 1 × n = ?",
+    "ans": "39",
+    "bahas": "n = 351/9 = 39. Maka 1 × 39 = 39"
+  },
+  {
+    "text": "Jika 5 × n = 90,<br>maka 5 × n = ?",
+    "ans": "90",
+    "bahas": "n = 90/5 = 18. Maka 5 × 18 = 90"
+  },
+  {
+    "text": "Jika 6 × n = 108,<br>maka 4 × n = ?",
+    "ans": "72",
+    "bahas": "n = 108/6 = 18. Maka 4 × 18 = 72"
+  },
+  {
+    "text": "Jika 3 × n = 78,<br>maka 7 × n = ?",
+    "ans": "182",
+    "bahas": "n = 78/3 = 26. Maka 7 × 26 = 182"
+  },
+  {
+    "text": "Jika 5 × n = 115,<br>maka 5 × n = ?",
+    "ans": "115",
+    "bahas": "n = 115/5 = 23. Maka 5 × 23 = 115"
+  },
+  {
+    "text": "Jika 6 × n = 78,<br>maka 4 × n = ?",
+    "ans": "52",
+    "bahas": "n = 78/6 = 13. Maka 4 × 13 = 52"
+  },
+  {
+    "text": "Jika 8 × n = 208,<br>maka 2 × n = ?",
+    "ans": "52",
+    "bahas": "n = 208/8 = 26. Maka 2 × 26 = 52"
+  },
+  {
+    "text": "Jika 7 × n = 112,<br>maka 3 × n = ?",
+    "ans": "48",
+    "bahas": "n = 112/7 = 16. Maka 3 × 16 = 48"
+  },
+  {
+    "text": "Jika 9 × n = 180,<br>maka 1 × n = ?",
+    "ans": "20",
+    "bahas": "n = 180/9 = 20. Maka 1 × 20 = 20"
+  },
+  {
+    "text": "Jika 8 × n = 120,<br>maka 2 × n = ?",
+    "ans": "30",
+    "bahas": "n = 120/8 = 15. Maka 2 × 15 = 30"
+  },
+  {
+    "text": "Jika 9 × n = 351,<br>maka 1 × n = ?",
+    "ans": "39",
+    "bahas": "n = 351/9 = 39. Maka 1 × 39 = 39"
+  },
+  {
+    "text": "Jika 4 × n = 148,<br>maka 6 × n = ?",
+    "ans": "222",
+    "bahas": "n = 148/4 = 37. Maka 6 × 37 = 222"
+  },
+  {
+    "text": "Jika 7 × n = 301,<br>maka 3 × n = ?",
+    "ans": "129",
+    "bahas": "n = 301/7 = 43. Maka 3 × 43 = 129"
+  },
+  {
+    "text": "Jika 9 × n = 243,<br>maka 1 × n = ?",
+    "ans": "27",
+    "bahas": "n = 243/9 = 27. Maka 1 × 27 = 27"
+  },
+  {
+    "text": "Jika 3 × n = 102,<br>maka 7 × n = ?",
+    "ans": "238",
+    "bahas": "n = 102/3 = 34. Maka 7 × 34 = 238"
+  },
+  {
+    "text": "Jika 8 × n = 120,<br>maka 2 × n = ?",
+    "ans": "30",
+    "bahas": "n = 120/8 = 15. Maka 2 × 15 = 30"
+  },
+  {
+    "text": "Jika 6 × n = 144,<br>maka 4 × n = ?",
+    "ans": "96",
+    "bahas": "n = 144/6 = 24. Maka 4 × 24 = 96"
+  },
+  {
+    "text": "Jika 7 × n = 147,<br>maka 3 × n = ?",
+    "ans": "63",
+    "bahas": "n = 147/7 = 21. Maka 3 × 21 = 63"
+  },
+  {
+    "text": "Jika 9 × n = 153,<br>maka 1 × n = ?",
+    "ans": "17",
+    "bahas": "n = 153/9 = 17. Maka 1 × 17 = 17"
+  },
+  {
+    "text": "Jika 4 × n = 132,<br>maka 6 × n = ?",
+    "ans": "198",
+    "bahas": "n = 132/4 = 33. Maka 6 × 33 = 198"
+  },
+  {
+    "text": "Jika 5 × n = 140,<br>maka 5 × n = ?",
+    "ans": "140",
+    "bahas": "n = 140/5 = 28. Maka 5 × 28 = 140"
+  },
+  {
+    "text": "Jika 4 × n = 168,<br>maka 6 × n = ?",
+    "ans": "252",
+    "bahas": "n = 168/4 = 42. Maka 6 × 42 = 252"
+  },
+  {
+    "text": "Jika 6 × n = 294,<br>maka 4 × n = ?",
+    "ans": "196",
+    "bahas": "n = 294/6 = 49. Maka 4 × 49 = 196"
+  },
+  {
+    "text": "Jika 7 × n = 182,<br>maka 3 × n = ?",
+    "ans": "78",
+    "bahas": "n = 182/7 = 26. Maka 3 × 26 = 78"
+  },
+  {
+    "text": "Jika 7 × n = 196,<br>maka 3 × n = ?",
+    "ans": "84",
+    "bahas": "n = 196/7 = 28. Maka 3 × 28 = 84"
+  },
+  {
+    "text": "Jika 8 × n = 216,<br>maka 2 × n = ?",
+    "ans": "54",
+    "bahas": "n = 216/8 = 27. Maka 2 × 27 = 54"
+  },
+  {
+    "text": "Jika 4 × n = 148,<br>maka 6 × n = ?",
+    "ans": "222",
+    "bahas": "n = 148/4 = 37. Maka 6 × 37 = 222"
+  },
+  {
+    "text": "Jika 5 × n = 60,<br>maka 5 × n = ?",
+    "ans": "60",
+    "bahas": "n = 60/5 = 12. Maka 5 × 12 = 60"
+  },
+  {
+    "text": "Jika 5 × n = 55,<br>maka 5 × n = ?",
+    "ans": "55",
+    "bahas": "n = 55/5 = 11. Maka 5 × 11 = 55"
+  },
+  {
+    "text": "Jika 6 × n = 180,<br>maka 4 × n = ?",
+    "ans": "120",
+    "bahas": "n = 180/6 = 30. Maka 4 × 30 = 120"
+  },
+  {
+    "text": "Jika 6 × n = 162,<br>maka 4 × n = ?",
+    "ans": "108",
+    "bahas": "n = 162/6 = 27. Maka 4 × 27 = 108"
+  },
+  {
+    "text": "Jika 6 × n = 72,<br>maka 4 × n = ?",
+    "ans": "48",
+    "bahas": "n = 72/6 = 12. Maka 4 × 12 = 48"
+  },
+  {
+    "text": "Jika 3 × n = 96,<br>maka 7 × n = ?",
+    "ans": "224",
+    "bahas": "n = 96/3 = 32. Maka 7 × 32 = 224"
+  },
+  {
+    "text": "Jika 9 × n = 153,<br>maka 1 × n = ?",
+    "ans": "17",
+    "bahas": "n = 153/9 = 17. Maka 1 × 17 = 17"
+  },
+  {
+    "text": "Jika 6 × n = 126,<br>maka 4 × n = ?",
+    "ans": "84",
+    "bahas": "n = 126/6 = 21. Maka 4 × 21 = 84"
+  },
+  {
+    "text": "Jika 8 × n = 208,<br>maka 2 × n = ?",
+    "ans": "52",
+    "bahas": "n = 208/8 = 26. Maka 2 × 26 = 52"
+  }
+]

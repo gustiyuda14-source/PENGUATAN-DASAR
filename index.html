@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>D AJIKS AKADEMI - PENGUATAN DASAR MATEMATIK</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: { extend: { colors: { brand: { primary: '#dc1430', gold: '#c9a227', success: '#22c55e' } } } }
+        };
+    </script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="login-screen">
+        <div class="login-card">
+            <h1>D AJIKS <span>AKADEMI</span></h1>
+            <h2>Penguatan Dasar Matematik</h2>
+            <input type="text" id="input-nama" class="login-input" placeholder="Masukkan Nama Lengkap" autocomplete="off">
+            <button class="btn-luxury" id="btn-start">MULAI LATIHAN</button>
+        </div>
+    </div>
+
+    <div id="paket-screen">
+        <div class="paket-screen-header">
+            <h1>Halo, <span id="lbl-nama-paket">Nama</span></h1>
+            <h2>Pilih paket latihan buat mulai</h2>
+        </div>
+
+        <div class="paket-page-nav">
+            <span>PILIH PAKET</span>
+            <div class="paket-page-controls">
+                <button id="btn-paket-prev" aria-label="Paket sebelumnya">▲</button>
+                <span id="lbl-paket-page" class="mono">1/3</span>
+                <button id="btn-paket-next" aria-label="Paket berikutnya">▼</button>
+            </div>
+        </div>
+
+        <div class="paket-carousel gold" id="paket-carousel"></div>
+
+        <button class="btn-luxury max-w-[320px] mx-auto hidden" id="btn-lihat-hasil">LIHAT HASIL</button>
+    </div>
+
+    <div id="quiz-screen">
+        <div class="quiz-main">
+            <div class="quiz-header">
+                <div class="user-info">
+                    <div class="poin-label" id="lbl-poin">PAKET 1</div>
+                    <div class="user-name" id="lbl-nama">Nama</div>
+                </div>
+                <div class="timer-badge" id="lbl-timer">00:00</div>
+            </div>
+
+            <div class="progress-indicator">
+                <span id="lbl-progress">SOAL 1 DARI 50</span>
+                <button id="btn-nav-open" class="nav-open-btn" aria-label="Navigasi Soal">☰</button>
+            </div>
+
+            <div class="question-container">
+                <div class="math-text" id="soal-text">Memuat soal...</div>
+
+                <div class="answer-wrapper" id="input-container"></div>
+
+                <div class="flex gap-2.5 w-full max-w-[300px] mt-2.5">
+                    <button class="btn-luxury btn-secondary text-sm py-3" id="btn-prev">PREV</button>
+                    <button class="btn-luxury btn-secondary text-sm py-3" id="btn-next">NEXT</button>
+                </div>
+                <button class="btn-luxury bg-brand-success mt-2.5 max-w-[300px] hidden" id="btn-submit">SUBMIT PAKET</button>
+            </div>
+
+            <div class="luxury-numpad">
+                <button class="num-btn" data-num="7">7</button>
+                <button class="num-btn" data-num="8">8</button>
+                <button class="num-btn" data-num="9">9</button>
+                <button class="num-btn del" data-action="del">⌫</button>
+
+                <button class="num-btn" data-num="4">4</button>
+                <button class="num-btn" data-num="5">5</button>
+                <button class="num-btn" data-num="6">6</button>
+                <button class="num-btn text-brand-gold" data-action="clear">C</button>
+
+                <button class="num-btn" data-num="1">1</button>
+                <button class="num-btn" data-num="2">2</button>
+                <button class="num-btn" data-num="3">3</button>
+                <button class="num-btn primary row-span-2 h-auto" data-action="ok">OK</button>
+
+                <button class="num-btn col-span-3" data-num="0">0</button>
+            </div>
+        </div>
+
+        <!-- Frozen nav pane: aktif permanen di layar lebar (>=900px), gantiin overlay -->
+        <aside class="quiz-sidebar-nav" id="quiz-sidebar-nav">
+            <div class="nav-overlay-header"><span>Navigasi Soal</span></div>
+            <div class="nav-legend">
+                <span class="nav-legend-item"><i class="dot dot-current"></i>Sekarang</span>
+                <span class="nav-legend-item"><i class="dot dot-answered"></i>Terjawab</span>
+                <span class="nav-legend-item"><i class="dot dot-empty"></i>Kosong</span>
+            </div>
+            <div class="nav-grid" id="nav-grid-sidebar"></div>
+        </aside>
+
+        <div id="nav-overlay" class="nav-overlay">
+            <div class="nav-overlay-panel">
+                <div class="nav-overlay-header">
+                    <span>Navigasi Soal</span>
+                    <button id="btn-nav-close" aria-label="Tutup">✕</button>
+                </div>
+                <div class="nav-legend">
+                    <span class="nav-legend-item"><i class="dot dot-current"></i>Sekarang</span>
+                    <span class="nav-legend-item"><i class="dot dot-answered"></i>Terjawab</span>
+                    <span class="nav-legend-item"><i class="dot dot-empty"></i>Kosong</span>
+                </div>
+                <div class="nav-grid" id="nav-grid"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="result-screen">
+        <div class="result-hero">
+            <button class="btn-back-paket" id="btn-back-paket">← PAKET</button>
+            <h2>HASIL LATIHAN</h2>
+            <p id="res-nama" class="text-[var(--text-secondary)] mt-2.5 font-bold">Nama Murid</p>
+            <div class="mono text-[var(--gold)] mt-1.5 text-lg">
+                Total Waktu: <span id="res-waktu" class="font-bold">00:00</span> | Skor: <span id="res-total" class="text-[var(--success)] font-bold">0/0</span>
+            </div>
+        </div>
+
+        <div class="stat-grid">
+            <div class="stat-card"><div class="val" id="score-p1">-</div><div class="lab">Paket 1</div></div>
+            <div class="stat-card"><div class="val" id="score-p2">-</div><div class="lab">Paket 2</div></div>
+            <div class="stat-card"><div class="val" id="score-p3">-</div><div class="lab">Paket 3</div></div>
+        </div>
+
+        <div class="review-section">
+            <div class="paket-carousel compact" id="result-carousel"></div>
+
+            <div class="filter-tabs">
+                <button class="filter-btn active" data-filter="semua">Semua</button>
+                <button class="filter-btn" data-filter="benar">Benar Saja</button>
+                <button class="filter-btn" data-filter="salah">Salah Saja</button>
+            </div>
+
+            <div id="accordion-container"></div>
+        </div>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

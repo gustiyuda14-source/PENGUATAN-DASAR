@@ -1,0 +1,1502 @@
+[
+  {
+    "text": "8 × 86 = ?",
+    "ans": "688",
+    "bahas": "Dekomposisi: 8 × (80 + 6) = 688"
+  },
+  {
+    "text": "9 × 84 = ?",
+    "ans": "756",
+    "bahas": "Dekomposisi: 9 × (80 + 4) = 756"
+  },
+  {
+    "text": "9 × 85 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 9 × (80 + 5) = 765"
+  },
+  {
+    "text": "9 × 89 = ?",
+    "ans": "801",
+    "bahas": "Dekomposisi: 9 × (90 - 1) = 810 - 9 = 801"
+  },
+  {
+    "text": "8 × 88 = ?",
+    "ans": "704",
+    "bahas": "Dekomposisi: 8 × (90 - 2) = 720 - 16 = 704"
+  },
+  {
+    "text": "7 × 86 = ?",
+    "ans": "602",
+    "bahas": "Dekomposisi: 7 × (80 + 6) = 602"
+  },
+  {
+    "text": "8 × 91 = ?",
+    "ans": "728",
+    "bahas": "Dekomposisi: 8 × (90 + 1) = 728"
+  },
+  {
+    "text": "8 × 83 = ?",
+    "ans": "664",
+    "bahas": "Dekomposisi: 8 × (80 + 3) = 664"
+  },
+  {
+    "text": "9 × 98 = ?",
+    "ans": "882",
+    "bahas": "Dekomposisi: 9 × (100 - 2) = 900 - 18 = 882"
+  },
+  {
+    "text": "7 × 88 = ?",
+    "ans": "616",
+    "bahas": "Dekomposisi: 7 × (90 - 2) = 630 - 14 = 616"
+  },
+  {
+    "text": "7 × 88 = ?",
+    "ans": "616",
+    "bahas": "Dekomposisi: 7 × (90 - 2) = 630 - 14 = 616"
+  },
+  {
+    "text": "9 × 97 = ?",
+    "ans": "873",
+    "bahas": "Dekomposisi: 9 × (100 - 3) = 900 - 27 = 873"
+  },
+  {
+    "text": "9 × 98 = ?",
+    "ans": "882",
+    "bahas": "Dekomposisi: 9 × (100 - 2) = 900 - 18 = 882"
+  },
+  {
+    "text": "9 × 83 = ?",
+    "ans": "747",
+    "bahas": "Dekomposisi: 9 × (80 + 3) = 747"
+  },
+  {
+    "text": "8 × 87 = ?",
+    "ans": "696",
+    "bahas": "Dekomposisi: 8 × (90 - 3) = 720 - 24 = 696"
+  },
+  {
+    "text": "7 × 82 = ?",
+    "ans": "574",
+    "bahas": "Dekomposisi: 7 × (80 + 2) = 574"
+  },
+  {
+    "text": "9 × 85 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 9 × (80 + 5) = 765"
+  },
+  {
+    "text": "9 × 85 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 9 × (80 + 5) = 765"
+  },
+  {
+    "text": "9 × 84 = ?",
+    "ans": "756",
+    "bahas": "Dekomposisi: 9 × (80 + 4) = 756"
+  },
+  {
+    "text": "9 × 85 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 9 × (80 + 5) = 765"
+  },
+  {
+    "text": "7 × 98 = ?",
+    "ans": "686",
+    "bahas": "Dekomposisi: 7 × (100 - 2) = 700 - 14 = 686"
+  },
+  {
+    "text": "8 × 96 = ?",
+    "ans": "768",
+    "bahas": "Dekomposisi: 8 × (90 + 6) = 768"
+  },
+  {
+    "text": "8 × 82 = ?",
+    "ans": "656",
+    "bahas": "Dekomposisi: 8 × (80 + 2) = 656"
+  },
+  {
+    "text": "7 × 98 = ?",
+    "ans": "686",
+    "bahas": "Dekomposisi: 7 × (100 - 2) = 700 - 14 = 686"
+  },
+  {
+    "text": "8 × 81 = ?",
+    "ans": "648",
+    "bahas": "Dekomposisi: 8 × (80 + 1) = 648"
+  },
+  {
+    "text": "9 × 92 = ?",
+    "ans": "828",
+    "bahas": "Dekomposisi: 9 × (90 + 2) = 828"
+  },
+  {
+    "text": "8 × 82 = ?",
+    "ans": "656",
+    "bahas": "Dekomposisi: 8 × (80 + 2) = 656"
+  },
+  {
+    "text": "7 × 85 = ?",
+    "ans": "595",
+    "bahas": "Dekomposisi: 7 × (80 + 5) = 595"
+  },
+  {
+    "text": "9 × 97 = ?",
+    "ans": "873",
+    "bahas": "Dekomposisi: 9 × (100 - 3) = 900 - 27 = 873"
+  },
+  {
+    "text": "9 × 85 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 9 × (80 + 5) = 765"
+  },
+  {
+    "text": "9 × 90 = ?",
+    "ans": "810",
+    "bahas": "Dekomposisi: 9 × (90 - 0) = 810 - 0 = 810"
+  },
+  {
+    "text": "7 × 99 = ?",
+    "ans": "693",
+    "bahas": "Dekomposisi: 7 × (100 - 1) = 700 - 7 = 693"
+  },
+  {
+    "text": "9 × 95 = ?",
+    "ans": "855",
+    "bahas": "Dekomposisi: 9 × (90 + 5) = 855"
+  },
+  {
+    "text": "7 × 93 = ?",
+    "ans": "651",
+    "bahas": "Dekomposisi: 7 × (90 + 3) = 651"
+  },
+  {
+    "text": "8 × 94 = ?",
+    "ans": "752",
+    "bahas": "Dekomposisi: 8 × (90 + 4) = 752"
+  },
+  {
+    "text": "7 × 92 = ?",
+    "ans": "644",
+    "bahas": "Dekomposisi: 7 × (90 + 2) = 644"
+  },
+  {
+    "text": "7 × 81 = ?",
+    "ans": "567",
+    "bahas": "Dekomposisi: 7 × (80 + 1) = 567"
+  },
+  {
+    "text": "9 × 97 = ?",
+    "ans": "873",
+    "bahas": "Dekomposisi: 9 × (100 - 3) = 900 - 27 = 873"
+  },
+  {
+    "text": "8 × 89 = ?",
+    "ans": "712",
+    "bahas": "Dekomposisi: 8 × (90 - 1) = 720 - 8 = 712"
+  },
+  {
+    "text": "9 × 97 = ?",
+    "ans": "873",
+    "bahas": "Dekomposisi: 9 × (100 - 3) = 900 - 27 = 873"
+  },
+  {
+    "text": "9 × 82 = ?",
+    "ans": "738",
+    "bahas": "Dekomposisi: 9 × (80 + 2) = 738"
+  },
+  {
+    "text": "8 × 85 = ?",
+    "ans": "680",
+    "bahas": "Dekomposisi: 8 × (80 + 5) = 680"
+  },
+  {
+    "text": "8 × 99 = ?",
+    "ans": "792",
+    "bahas": "Dekomposisi: 8 × (100 - 1) = 800 - 8 = 792"
+  },
+  {
+    "text": "8 × 96 = ?",
+    "ans": "768",
+    "bahas": "Dekomposisi: 8 × (90 + 6) = 768"
+  },
+  {
+    "text": "9 × 95 = ?",
+    "ans": "855",
+    "bahas": "Dekomposisi: 9 × (90 + 5) = 855"
+  },
+  {
+    "text": "8 × 96 = ?",
+    "ans": "768",
+    "bahas": "Dekomposisi: 8 × (90 + 6) = 768"
+  },
+  {
+    "text": "7 × 84 = ?",
+    "ans": "588",
+    "bahas": "Dekomposisi: 7 × (80 + 4) = 588"
+  },
+  {
+    "text": "7 × 93 = ?",
+    "ans": "651",
+    "bahas": "Dekomposisi: 7 × (90 + 3) = 651"
+  },
+  {
+    "text": "7 × 92 = ?",
+    "ans": "644",
+    "bahas": "Dekomposisi: 7 × (90 + 2) = 644"
+  },
+  {
+    "text": "8 × 85 = ?",
+    "ans": "680",
+    "bahas": "Dekomposisi: 8 × (80 + 5) = 680"
+  },
+  {
+    "text": "9 × 99 = ?",
+    "ans": "891",
+    "bahas": "Dekomposisi: 9 × (100 - 1) = 900 - 9 = 891"
+  },
+  {
+    "text": "9 × 90 = ?",
+    "ans": "810",
+    "bahas": "Dekomposisi: 9 × (90 - 0) = 810 - 0 = 810"
+  },
+  {
+    "text": "8 × 85 = ?",
+    "ans": "680",
+    "bahas": "Dekomposisi: 8 × (80 + 5) = 680"
+  },
+  {
+    "text": "9 × 85 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 9 × (80 + 5) = 765"
+  },
+  {
+    "text": "8 × 99 = ?",
+    "ans": "792",
+    "bahas": "Dekomposisi: 8 × (100 - 1) = 800 - 8 = 792"
+  },
+  {
+    "text": "7 × 89 = ?",
+    "ans": "623",
+    "bahas": "Dekomposisi: 7 × (90 - 1) = 630 - 7 = 623"
+  },
+  {
+    "text": "7 × 88 = ?",
+    "ans": "616",
+    "bahas": "Dekomposisi: 7 × (90 - 2) = 630 - 14 = 616"
+  },
+  {
+    "text": "9 × 91 = ?",
+    "ans": "819",
+    "bahas": "Dekomposisi: 9 × (90 + 1) = 819"
+  },
+  {
+    "text": "7 × 89 = ?",
+    "ans": "623",
+    "bahas": "Dekomposisi: 7 × (90 - 1) = 630 - 7 = 623"
+  },
+  {
+    "text": "8 × 90 = ?",
+    "ans": "720",
+    "bahas": "Dekomposisi: 8 × (90 - 0) = 720 - 0 = 720"
+  },
+  {
+    "text": "14 × 23 = ?",
+    "ans": "322",
+    "bahas": "Dekomposisi: 14 × (20 + 3) = 322"
+  },
+  {
+    "text": "12 × 37 = ?",
+    "ans": "444",
+    "bahas": "Dekomposisi: 12 × (40 - 3) = 480 - 36 = 444"
+  },
+  {
+    "text": "17 × 32 = ?",
+    "ans": "544",
+    "bahas": "Dekomposisi: 17 × (30 + 2) = 544"
+  },
+  {
+    "text": "18 × 28 = ?",
+    "ans": "504",
+    "bahas": "Dekomposisi: 18 × (30 - 2) = 540 - 36 = 504"
+  },
+  {
+    "text": "16 × 28 = ?",
+    "ans": "448",
+    "bahas": "Dekomposisi: 16 × (30 - 2) = 480 - 32 = 448"
+  },
+  {
+    "text": "13 × 44 = ?",
+    "ans": "572",
+    "bahas": "Dekomposisi: 13 × (40 + 4) = 572"
+  },
+  {
+    "text": "15 × 44 = ?",
+    "ans": "660",
+    "bahas": "Dekomposisi: 15 × (40 + 4) = 660"
+  },
+  {
+    "text": "18 × 24 = ?",
+    "ans": "432",
+    "bahas": "Dekomposisi: 18 × (20 + 4) = 432"
+  },
+  {
+    "text": "12 × 24 = ?",
+    "ans": "288",
+    "bahas": "Dekomposisi: 12 × (20 + 4) = 288"
+  },
+  {
+    "text": "12 × 22 = ?",
+    "ans": "264",
+    "bahas": "Dekomposisi: 12 × (20 + 2) = 264"
+  },
+  {
+    "text": "14 × 40 = ?",
+    "ans": "560",
+    "bahas": "Dekomposisi: 14 × (40 - 0) = 560 - 0 = 560"
+  },
+  {
+    "text": "15 × 26 = ?",
+    "ans": "390",
+    "bahas": "Dekomposisi: 15 × (20 + 6) = 390"
+  },
+  {
+    "text": "12 × 42 = ?",
+    "ans": "504",
+    "bahas": "Dekomposisi: 12 × (40 + 2) = 504"
+  },
+  {
+    "text": "18 × 47 = ?",
+    "ans": "846",
+    "bahas": "Dekomposisi: 18 × (50 - 3) = 900 - 54 = 846"
+  },
+  {
+    "text": "15 × 46 = ?",
+    "ans": "690",
+    "bahas": "Dekomposisi: 15 × (40 + 6) = 690"
+  },
+  {
+    "text": "15 × 40 = ?",
+    "ans": "600",
+    "bahas": "Dekomposisi: 15 × (40 - 0) = 600 - 0 = 600"
+  },
+  {
+    "text": "19 × 32 = ?",
+    "ans": "608",
+    "bahas": "Dekomposisi: 19 × (30 + 2) = 608"
+  },
+  {
+    "text": "16 × 23 = ?",
+    "ans": "368",
+    "bahas": "Dekomposisi: 16 × (20 + 3) = 368"
+  },
+  {
+    "text": "16 × 28 = ?",
+    "ans": "448",
+    "bahas": "Dekomposisi: 16 × (30 - 2) = 480 - 32 = 448"
+  },
+  {
+    "text": "17 × 45 = ?",
+    "ans": "765",
+    "bahas": "Dekomposisi: 17 × (40 + 5) = 765"
+  },
+  {
+    "text": "15 × 29 = ?",
+    "ans": "435",
+    "bahas": "Dekomposisi: 15 × (30 - 1) = 450 - 15 = 435"
+  },
+  {
+    "text": "14 × 44 = ?",
+    "ans": "616",
+    "bahas": "Dekomposisi: 14 × (40 + 4) = 616"
+  },
+  {
+    "text": "19 × 24 = ?",
+    "ans": "456",
+    "bahas": "Dekomposisi: 19 × (20 + 4) = 456"
+  },
+  {
+    "text": "13 × 23 = ?",
+    "ans": "299",
+    "bahas": "Dekomposisi: 13 × (20 + 3) = 299"
+  },
+  {
+    "text": "15 × 49 = ?",
+    "ans": "735",
+    "bahas": "Dekomposisi: 15 × (50 - 1) = 750 - 15 = 735"
+  },
+  {
+    "text": "16 × 44 = ?",
+    "ans": "704",
+    "bahas": "Dekomposisi: 16 × (40 + 4) = 704"
+  },
+  {
+    "text": "18 × 24 = ?",
+    "ans": "432",
+    "bahas": "Dekomposisi: 18 × (20 + 4) = 432"
+  },
+  {
+    "text": "16 × 30 = ?",
+    "ans": "480",
+    "bahas": "Dekomposisi: 16 × (30 - 0) = 480 - 0 = 480"
+  },
+  {
+    "text": "15 × 26 = ?",
+    "ans": "390",
+    "bahas": "Dekomposisi: 15 × (20 + 6) = 390"
+  },
+  {
+    "text": "16 × 48 = ?",
+    "ans": "768",
+    "bahas": "Dekomposisi: 16 × (50 - 2) = 800 - 32 = 768"
+  },
+  {
+    "text": "11 × 37 = ?",
+    "ans": "407",
+    "bahas": "Dekomposisi: 11 × (40 - 3) = 440 - 33 = 407"
+  },
+  {
+    "text": "16 × 31 = ?",
+    "ans": "496",
+    "bahas": "Dekomposisi: 16 × (30 + 1) = 496"
+  },
+  {
+    "text": "13 × 24 = ?",
+    "ans": "312",
+    "bahas": "Dekomposisi: 13 × (20 + 4) = 312"
+  },
+  {
+    "text": "16 × 21 = ?",
+    "ans": "336",
+    "bahas": "Dekomposisi: 16 × (20 + 1) = 336"
+  },
+  {
+    "text": "18 × 30 = ?",
+    "ans": "540",
+    "bahas": "Dekomposisi: 18 × (30 - 0) = 540 - 0 = 540"
+  },
+  {
+    "text": "19 × 32 = ?",
+    "ans": "608",
+    "bahas": "Dekomposisi: 19 × (30 + 2) = 608"
+  },
+  {
+    "text": "19 × 38 = ?",
+    "ans": "722",
+    "bahas": "Dekomposisi: 19 × (40 - 2) = 760 - 38 = 722"
+  },
+  {
+    "text": "19 × 30 = ?",
+    "ans": "570",
+    "bahas": "Dekomposisi: 19 × (30 - 0) = 570 - 0 = 570"
+  },
+  {
+    "text": "13 × 22 = ?",
+    "ans": "286",
+    "bahas": "Dekomposisi: 13 × (20 + 2) = 286"
+  },
+  {
+    "text": "12 × 34 = ?",
+    "ans": "408",
+    "bahas": "Dekomposisi: 12 × (30 + 4) = 408"
+  },
+  {
+    "text": "17 × 31 = ?",
+    "ans": "527",
+    "bahas": "Dekomposisi: 17 × (30 + 1) = 527"
+  },
+  {
+    "text": "17 × 40 = ?",
+    "ans": "680",
+    "bahas": "Dekomposisi: 17 × (40 - 0) = 680 - 0 = 680"
+  },
+  {
+    "text": "15 × 31 = ?",
+    "ans": "465",
+    "bahas": "Dekomposisi: 15 × (30 + 1) = 465"
+  },
+  {
+    "text": "19 × 30 = ?",
+    "ans": "570",
+    "bahas": "Dekomposisi: 19 × (30 - 0) = 570 - 0 = 570"
+  },
+  {
+    "text": "17 × 35 = ?",
+    "ans": "595",
+    "bahas": "Dekomposisi: 17 × (30 + 5) = 595"
+  },
+  {
+    "text": "16 × 28 = ?",
+    "ans": "448",
+    "bahas": "Dekomposisi: 16 × (30 - 2) = 480 - 32 = 448"
+  },
+  {
+    "text": "17 × 23 = ?",
+    "ans": "391",
+    "bahas": "Dekomposisi: 17 × (20 + 3) = 391"
+  },
+  {
+    "text": "19 × 29 = ?",
+    "ans": "551",
+    "bahas": "Dekomposisi: 19 × (30 - 1) = 570 - 19 = 551"
+  },
+  {
+    "text": "13 × 33 = ?",
+    "ans": "429",
+    "bahas": "Dekomposisi: 13 × (30 + 3) = 429"
+  },
+  {
+    "text": "11 × 26 = ?",
+    "ans": "286",
+    "bahas": "Dekomposisi: 11 × (20 + 6) = 286"
+  },
+  {
+    "text": "19 × 48 = ?",
+    "ans": "912",
+    "bahas": "Dekomposisi: 19 × (50 - 2) = 950 - 38 = 912"
+  },
+  {
+    "text": "13 × 48 = ?",
+    "ans": "624",
+    "bahas": "Dekomposisi: 13 × (50 - 2) = 650 - 26 = 624"
+  },
+  {
+    "text": "17 × 27 = ?",
+    "ans": "459",
+    "bahas": "Dekomposisi: 17 × (30 - 3) = 510 - 51 = 459"
+  },
+  {
+    "text": "19 × 23 = ?",
+    "ans": "437",
+    "bahas": "Dekomposisi: 19 × (20 + 3) = 437"
+  },
+  {
+    "text": "14 × 22 = ?",
+    "ans": "308",
+    "bahas": "Dekomposisi: 14 × (20 + 2) = 308"
+  },
+  {
+    "text": "15 × 29 = ?",
+    "ans": "435",
+    "bahas": "Dekomposisi: 15 × (30 - 1) = 450 - 15 = 435"
+  },
+  {
+    "text": "11 × 46 = ?",
+    "ans": "506",
+    "bahas": "Dekomposisi: 11 × (40 + 6) = 506"
+  },
+  {
+    "text": "12 × 35 = ?",
+    "ans": "420",
+    "bahas": "Dekomposisi: 12 × (30 + 5) = 420"
+  },
+  {
+    "text": "15 × 27 = ?",
+    "ans": "405",
+    "bahas": "Dekomposisi: 15 × (30 - 3) = 450 - 45 = 405"
+  },
+  {
+    "text": "15 × 45 = ?",
+    "ans": "675",
+    "bahas": "Dekomposisi: 15 × (40 + 5) = 675"
+  },
+  {
+    "text": "16 × 32 = ?",
+    "ans": "512",
+    "bahas": "Dekomposisi: 16 × (30 + 2) = 512"
+  },
+  {
+    "text": "15 × 42 = ?",
+    "ans": "630",
+    "bahas": "Dekomposisi: 15 × (40 + 2) = 630"
+  },
+  {
+    "text": "16 × 36 = ?",
+    "ans": "576",
+    "bahas": "Dekomposisi: 16 × (30 + 6) = 576"
+  },
+  {
+    "text": "18 × 37 = ?",
+    "ans": "666",
+    "bahas": "Dekomposisi: 18 × (40 - 3) = 720 - 54 = 666"
+  },
+  {
+    "text": "16 × 22 = ?",
+    "ans": "352",
+    "bahas": "Dekomposisi: 16 × (20 + 2) = 352"
+  },
+  {
+    "text": "13 × 42 = ?",
+    "ans": "546",
+    "bahas": "Dekomposisi: 13 × (40 + 2) = 546"
+  },
+  {
+    "text": "15 × 46 = ?",
+    "ans": "690",
+    "bahas": "Dekomposisi: 15 × (40 + 6) = 690"
+  },
+  {
+    "text": "12 × 32 = ?",
+    "ans": "384",
+    "bahas": "Dekomposisi: 12 × (30 + 2) = 384"
+  },
+  {
+    "text": "15 × 40 = ?",
+    "ans": "600",
+    "bahas": "Dekomposisi: 15 × (40 - 0) = 600 - 0 = 600"
+  },
+  {
+    "text": "12 × 40 = ?",
+    "ans": "480",
+    "bahas": "Dekomposisi: 12 × (40 - 0) = 480 - 0 = 480"
+  },
+  {
+    "text": "12 × 30 = ?",
+    "ans": "360",
+    "bahas": "Dekomposisi: 12 × (30 - 0) = 360 - 0 = 360"
+  },
+  {
+    "text": "13 × 43 = ?",
+    "ans": "559",
+    "bahas": "Dekomposisi: 13 × (40 + 3) = 559"
+  },
+  {
+    "text": "15 × 33 = ?",
+    "ans": "495",
+    "bahas": "Dekomposisi: 15 × (30 + 3) = 495"
+  },
+  {
+    "text": "13 × 21 = ?",
+    "ans": "273",
+    "bahas": "Dekomposisi: 13 × (20 + 1) = 273"
+  },
+  {
+    "text": "17 × 49 = ?",
+    "ans": "833",
+    "bahas": "Dekomposisi: 17 × (50 - 1) = 850 - 17 = 833"
+  },
+  {
+    "text": "17 × 35 = ?",
+    "ans": "595",
+    "bahas": "Dekomposisi: 17 × (30 + 5) = 595"
+  },
+  {
+    "text": "18 × 48 = ?",
+    "ans": "864",
+    "bahas": "Dekomposisi: 18 × (50 - 2) = 900 - 36 = 864"
+  },
+  {
+    "text": "16 × 24 = ?",
+    "ans": "384",
+    "bahas": "Dekomposisi: 16 × (20 + 4) = 384"
+  },
+  {
+    "text": "12 × 30 = ?",
+    "ans": "360",
+    "bahas": "Dekomposisi: 12 × (30 - 0) = 360 - 0 = 360"
+  },
+  {
+    "text": "17 × 24 = ?",
+    "ans": "408",
+    "bahas": "Dekomposisi: 17 × (20 + 4) = 408"
+  },
+  {
+    "text": "19 × 36 = ?",
+    "ans": "684",
+    "bahas": "Dekomposisi: 19 × (30 + 6) = 684"
+  },
+  {
+    "text": "17 × 29 = ?",
+    "ans": "493",
+    "bahas": "Dekomposisi: 17 × (30 - 1) = 510 - 17 = 493"
+  },
+  {
+    "text": "12 × 31 = ?",
+    "ans": "372",
+    "bahas": "Dekomposisi: 12 × (30 + 1) = 372"
+  },
+  {
+    "text": "11 × 25 = ?",
+    "ans": "275",
+    "bahas": "Dekomposisi: 11 × (20 + 5) = 275"
+  },
+  {
+    "text": "16 × 49 = ?",
+    "ans": "784",
+    "bahas": "Dekomposisi: 16 × (50 - 1) = 800 - 16 = 784"
+  },
+  {
+    "text": "11 × 35 = ?",
+    "ans": "385",
+    "bahas": "Dekomposisi: 11 × (30 + 5) = 385"
+  },
+  {
+    "text": "15 × 30 = ?",
+    "ans": "450",
+    "bahas": "Dekomposisi: 15 × (30 - 0) = 450 - 0 = 450"
+  },
+  {
+    "text": "15 × 24 = ?",
+    "ans": "360",
+    "bahas": "Dekomposisi: 15 × (20 + 4) = 360"
+  },
+  {
+    "text": "18 × 41 = ?",
+    "ans": "738",
+    "bahas": "Dekomposisi: 18 × (40 + 1) = 738"
+  },
+  {
+    "text": "15 × 38 = ?",
+    "ans": "570",
+    "bahas": "Dekomposisi: 15 × (40 - 2) = 600 - 30 = 570"
+  },
+  {
+    "text": "59 × 94 = ?",
+    "ans": "5546",
+    "bahas": "Dekomposisi: 59 × (90 + 4) = 5546"
+  },
+  {
+    "text": "85 × 73 = ?",
+    "ans": "6205",
+    "bahas": "Dekomposisi: 85 × (70 + 3) = 6205"
+  },
+  {
+    "text": "70 × 61 = ?",
+    "ans": "4270",
+    "bahas": "Dekomposisi: 70 × (60 + 1) = 4270"
+  },
+  {
+    "text": "84 × 43 = ?",
+    "ans": "3612",
+    "bahas": "Dekomposisi: 84 × (40 + 3) = 3612"
+  },
+  {
+    "text": "64 × 59 = ?",
+    "ans": "3776",
+    "bahas": "Dekomposisi: 64 × (60 - 1) = 3840 - 64 = 3776"
+  },
+  {
+    "text": "58 × 80 = ?",
+    "ans": "4640",
+    "bahas": "Dekomposisi: 58 × (80 - 0) = 4640 - 0 = 4640"
+  },
+  {
+    "text": "73 × 59 = ?",
+    "ans": "4307",
+    "bahas": "Dekomposisi: 73 × (60 - 1) = 4380 - 73 = 4307"
+  },
+  {
+    "text": "59 × 50 = ?",
+    "ans": "2950",
+    "bahas": "Dekomposisi: 59 × (50 - 0) = 2950 - 0 = 2950"
+  },
+  {
+    "text": "70 × 82 = ?",
+    "ans": "5740",
+    "bahas": "Dekomposisi: 70 × (80 + 2) = 5740"
+  },
+  {
+    "text": "49 × 66 = ?",
+    "ans": "3234",
+    "bahas": "Dekomposisi: 49 × (60 + 6) = 3234"
+  },
+  {
+    "text": "50 × 69 = ?",
+    "ans": "3450",
+    "bahas": "Dekomposisi: 50 × (70 - 1) = 3500 - 50 = 3450"
+  },
+  {
+    "text": "73 × 65 = ?",
+    "ans": "4745",
+    "bahas": "Dekomposisi: 73 × (60 + 5) = 4745"
+  },
+  {
+    "text": "71 × 95 = ?",
+    "ans": "6745",
+    "bahas": "Dekomposisi: 71 × (90 + 5) = 6745"
+  },
+  {
+    "text": "43 × 66 = ?",
+    "ans": "2838",
+    "bahas": "Dekomposisi: 43 × (60 + 6) = 2838"
+  },
+  {
+    "text": "88 × 47 = ?",
+    "ans": "4136",
+    "bahas": "Dekomposisi: 88 × (50 - 3) = 4400 - 264 = 4136"
+  },
+  {
+    "text": "38 × 44 = ?",
+    "ans": "1672",
+    "bahas": "Dekomposisi: 38 × (40 + 4) = 1672"
+  },
+  {
+    "text": "93 × 90 = ?",
+    "ans": "8370",
+    "bahas": "Dekomposisi: 93 × (90 - 0) = 8370 - 0 = 8370"
+  },
+  {
+    "text": "63 × 71 = ?",
+    "ans": "4473",
+    "bahas": "Dekomposisi: 63 × (70 + 1) = 4473"
+  },
+  {
+    "text": "45 × 88 = ?",
+    "ans": "3960",
+    "bahas": "Dekomposisi: 45 × (90 - 2) = 4050 - 90 = 3960"
+  },
+  {
+    "text": "48 × 74 = ?",
+    "ans": "3552",
+    "bahas": "Dekomposisi: 48 × (70 + 4) = 3552"
+  },
+  {
+    "text": "72 × 59 = ?",
+    "ans": "4248",
+    "bahas": "Dekomposisi: 72 × (60 - 1) = 4320 - 72 = 4248"
+  },
+  {
+    "text": "96 × 64 = ?",
+    "ans": "6144",
+    "bahas": "Dekomposisi: 96 × (60 + 4) = 6144"
+  },
+  {
+    "text": "45 × 90 = ?",
+    "ans": "4050",
+    "bahas": "Dekomposisi: 45 × (90 - 0) = 4050 - 0 = 4050"
+  },
+  {
+    "text": "75 × 87 = ?",
+    "ans": "6525",
+    "bahas": "Dekomposisi: 75 × (90 - 3) = 6750 - 225 = 6525"
+  },
+  {
+    "text": "76 × 71 = ?",
+    "ans": "5396",
+    "bahas": "Dekomposisi: 76 × (70 + 1) = 5396"
+  },
+  {
+    "text": "94 × 84 = ?",
+    "ans": "7896",
+    "bahas": "Dekomposisi: 94 × (80 + 4) = 7896"
+  },
+  {
+    "text": "54 × 97 = ?",
+    "ans": "5238",
+    "bahas": "Dekomposisi: 54 × (100 - 3) = 5400 - 162 = 5238"
+  },
+  {
+    "text": "75 × 47 = ?",
+    "ans": "3525",
+    "bahas": "Dekomposisi: 75 × (50 - 3) = 3750 - 225 = 3525"
+  },
+  {
+    "text": "85 × 81 = ?",
+    "ans": "6885",
+    "bahas": "Dekomposisi: 85 × (80 + 1) = 6885"
+  },
+  {
+    "text": "88 × 71 = ?",
+    "ans": "6248",
+    "bahas": "Dekomposisi: 88 × (70 + 1) = 6248"
+  },
+  {
+    "text": "52 × 83 = ?",
+    "ans": "4316",
+    "bahas": "Dekomposisi: 52 × (80 + 3) = 4316"
+  },
+  {
+    "text": "40 × 97 = ?",
+    "ans": "3880",
+    "bahas": "Dekomposisi: 40 × (100 - 3) = 4000 - 120 = 3880"
+  },
+  {
+    "text": "46 × 63 = ?",
+    "ans": "2898",
+    "bahas": "Dekomposisi: 46 × (60 + 3) = 2898"
+  },
+  {
+    "text": "62 × 56 = ?",
+    "ans": "3472",
+    "bahas": "Dekomposisi: 62 × (50 + 6) = 3472"
+  },
+  {
+    "text": "67 × 77 = ?",
+    "ans": "5159",
+    "bahas": "Dekomposisi: 67 × (80 - 3) = 5360 - 201 = 5159"
+  },
+  {
+    "text": "98 × 62 = ?",
+    "ans": "6076",
+    "bahas": "Dekomposisi: 98 × (60 + 2) = 6076"
+  },
+  {
+    "text": "41 × 70 = ?",
+    "ans": "2870",
+    "bahas": "Dekomposisi: 41 × (70 - 0) = 2870 - 0 = 2870"
+  },
+  {
+    "text": "92 × 48 = ?",
+    "ans": "4416",
+    "bahas": "Dekomposisi: 92 × (50 - 2) = 4600 - 184 = 4416"
+  },
+  {
+    "text": "46 × 43 = ?",
+    "ans": "1978",
+    "bahas": "Dekomposisi: 46 × (40 + 3) = 1978"
+  },
+  {
+    "text": "97 × 91 = ?",
+    "ans": "8827",
+    "bahas": "Dekomposisi: 97 × (90 + 1) = 8827"
+  },
+  {
+    "text": "77 × 46 = ?",
+    "ans": "3542",
+    "bahas": "Dekomposisi: 77 × (40 + 6) = 3542"
+  },
+  {
+    "text": "91 × 77 = ?",
+    "ans": "7007",
+    "bahas": "Dekomposisi: 91 × (80 - 3) = 7280 - 273 = 7007"
+  },
+  {
+    "text": "66 × 53 = ?",
+    "ans": "3498",
+    "bahas": "Dekomposisi: 66 × (50 + 3) = 3498"
+  },
+  {
+    "text": "62 × 82 = ?",
+    "ans": "5084",
+    "bahas": "Dekomposisi: 62 × (80 + 2) = 5084"
+  },
+  {
+    "text": "74 × 42 = ?",
+    "ans": "3108",
+    "bahas": "Dekomposisi: 74 × (40 + 2) = 3108"
+  },
+  {
+    "text": "45 × 64 = ?",
+    "ans": "2880",
+    "bahas": "Dekomposisi: 45 × (60 + 4) = 2880"
+  },
+  {
+    "text": "59 × 61 = ?",
+    "ans": "3599",
+    "bahas": "Dekomposisi: 59 × (60 + 1) = 3599"
+  },
+  {
+    "text": "85 × 98 = ?",
+    "ans": "8330",
+    "bahas": "Dekomposisi: 85 × (100 - 2) = 8500 - 170 = 8330"
+  },
+  {
+    "text": "66 × 53 = ?",
+    "ans": "3498",
+    "bahas": "Dekomposisi: 66 × (50 + 3) = 3498"
+  },
+  {
+    "text": "79 × 55 = ?",
+    "ans": "4345",
+    "bahas": "Dekomposisi: 79 × (50 + 5) = 4345"
+  },
+  {
+    "text": "88 × 43 = ?",
+    "ans": "3784",
+    "bahas": "Dekomposisi: 88 × (40 + 3) = 3784"
+  },
+  {
+    "text": "96 × 78 = ?",
+    "ans": "7488",
+    "bahas": "Dekomposisi: 96 × (80 - 2) = 7680 - 192 = 7488"
+  },
+  {
+    "text": "65 × 94 = ?",
+    "ans": "6110",
+    "bahas": "Dekomposisi: 65 × (90 + 4) = 6110"
+  },
+  {
+    "text": "38 × 66 = ?",
+    "ans": "2508",
+    "bahas": "Dekomposisi: 38 × (60 + 6) = 2508"
+  },
+  {
+    "text": "40 × 57 = ?",
+    "ans": "2280",
+    "bahas": "Dekomposisi: 40 × (60 - 3) = 2400 - 120 = 2280"
+  },
+  {
+    "text": "98 × 96 = ?",
+    "ans": "9408",
+    "bahas": "Dekomposisi: 98 × (90 + 6) = 9408"
+  },
+  {
+    "text": "68 × 60 = ?",
+    "ans": "4080",
+    "bahas": "Dekomposisi: 68 × (60 - 0) = 4080 - 0 = 4080"
+  },
+  {
+    "text": "80 × 45 = ?",
+    "ans": "3600",
+    "bahas": "Dekomposisi: 80 × (40 + 5) = 3600"
+  },
+  {
+    "text": "92 × 90 = ?",
+    "ans": "8280",
+    "bahas": "Dekomposisi: 92 × (90 - 0) = 8280 - 0 = 8280"
+  },
+  {
+    "text": "63 × 76 = ?",
+    "ans": "4788",
+    "bahas": "Dekomposisi: 63 × (70 + 6) = 4788"
+  },
+  {
+    "text": "85 × 76 = ?",
+    "ans": "6460",
+    "bahas": "Dekomposisi: 85 × (70 + 6) = 6460"
+  },
+  {
+    "text": "90 × 92 = ?",
+    "ans": "8280",
+    "bahas": "Dekomposisi: 90 × (90 + 2) = 8280"
+  },
+  {
+    "text": "45 × 54 = ?",
+    "ans": "2430",
+    "bahas": "Dekomposisi: 45 × (50 + 4) = 2430"
+  },
+  {
+    "text": "81 × 93 = ?",
+    "ans": "7533",
+    "bahas": "Dekomposisi: 81 × (90 + 3) = 7533"
+  },
+  {
+    "text": "83 × 92 = ?",
+    "ans": "7636",
+    "bahas": "Dekomposisi: 83 × (90 + 2) = 7636"
+  },
+  {
+    "text": "63 × 57 = ?",
+    "ans": "3591",
+    "bahas": "Dekomposisi: 63 × (60 - 3) = 3780 - 189 = 3591"
+  },
+  {
+    "text": "94 × 87 = ?",
+    "ans": "8178",
+    "bahas": "Dekomposisi: 94 × (90 - 3) = 8460 - 282 = 8178"
+  },
+  {
+    "text": "81 × 75 = ?",
+    "ans": "6075",
+    "bahas": "Dekomposisi: 81 × (70 + 5) = 6075"
+  },
+  {
+    "text": "39 × 80 = ?",
+    "ans": "3120",
+    "bahas": "Dekomposisi: 39 × (80 - 0) = 3120 - 0 = 3120"
+  },
+  {
+    "text": "99 × 52 = ?",
+    "ans": "5148",
+    "bahas": "Dekomposisi: 99 × (50 + 2) = 5148"
+  },
+  {
+    "text": "99 × 77 = ?",
+    "ans": "7623",
+    "bahas": "Dekomposisi: 99 × (80 - 3) = 7920 - 297 = 7623"
+  },
+  {
+    "text": "37 × 88 = ?",
+    "ans": "3256",
+    "bahas": "Dekomposisi: 37 × (90 - 2) = 3330 - 74 = 3256"
+  },
+  {
+    "text": "70 × 91 = ?",
+    "ans": "6370",
+    "bahas": "Dekomposisi: 70 × (90 + 1) = 6370"
+  },
+  {
+    "text": "72 × 52 = ?",
+    "ans": "3744",
+    "bahas": "Dekomposisi: 72 × (50 + 2) = 3744"
+  },
+  {
+    "text": "55 × 64 = ?",
+    "ans": "3520",
+    "bahas": "Dekomposisi: 55 × (60 + 4) = 3520"
+  },
+  {
+    "text": "61 × 94 = ?",
+    "ans": "5734",
+    "bahas": "Dekomposisi: 61 × (90 + 4) = 5734"
+  },
+  {
+    "text": "86 × 94 = ?",
+    "ans": "8084",
+    "bahas": "Dekomposisi: 86 × (90 + 4) = 8084"
+  },
+  {
+    "text": "53 × 46 = ?",
+    "ans": "2438",
+    "bahas": "Dekomposisi: 53 × (40 + 6) = 2438"
+  },
+  {
+    "text": "67 × 78 = ?",
+    "ans": "5226",
+    "bahas": "Dekomposisi: 67 × (80 - 2) = 5360 - 134 = 5226"
+  },
+  {
+    "text": "80 × 53 = ?",
+    "ans": "4240",
+    "bahas": "Dekomposisi: 80 × (50 + 3) = 4240"
+  },
+  {
+    "text": "50 × 65 = ?",
+    "ans": "3250",
+    "bahas": "Dekomposisi: 50 × (60 + 5) = 3250"
+  },
+  {
+    "text": "46 × 70 = ?",
+    "ans": "3220",
+    "bahas": "Dekomposisi: 46 × (70 - 0) = 3220 - 0 = 3220"
+  },
+  {
+    "text": "45 × 71 = ?",
+    "ans": "3195",
+    "bahas": "Dekomposisi: 45 × (70 + 1) = 3195"
+  },
+  {
+    "text": "69 × 46 = ?",
+    "ans": "3174",
+    "bahas": "Dekomposisi: 69 × (40 + 6) = 3174"
+  },
+  {
+    "text": "77 × 88 = ?",
+    "ans": "6776",
+    "bahas": "Dekomposisi: 77 × (90 - 2) = 6930 - 154 = 6776"
+  },
+  {
+    "text": "78 × 92 = ?",
+    "ans": "7176",
+    "bahas": "Dekomposisi: 78 × (90 + 2) = 7176"
+  },
+  {
+    "text": "63 × 77 = ?",
+    "ans": "4851",
+    "bahas": "Dekomposisi: 63 × (80 - 3) = 5040 - 189 = 4851"
+  },
+  {
+    "text": "77 × 46 = ?",
+    "ans": "3542",
+    "bahas": "Dekomposisi: 77 × (40 + 6) = 3542"
+  },
+  {
+    "text": "38 × 61 = ?",
+    "ans": "2318",
+    "bahas": "Dekomposisi: 38 × (60 + 1) = 2318"
+  },
+  {
+    "text": "82 × 99 = ?",
+    "ans": "8118",
+    "bahas": "Dekomposisi: 82 × (100 - 1) = 8200 - 82 = 8118"
+  },
+  {
+    "text": "91 × 92 = ?",
+    "ans": "8372",
+    "bahas": "Dekomposisi: 91 × (90 + 2) = 8372"
+  },
+  {
+    "text": "98 × 89 = ?",
+    "ans": "8722",
+    "bahas": "Dekomposisi: 98 × (90 - 1) = 8820 - 98 = 8722"
+  },
+  {
+    "text": "50 × 92 = ?",
+    "ans": "4600",
+    "bahas": "Dekomposisi: 50 × (90 + 2) = 4600"
+  },
+  {
+    "text": "93 × 52 = ?",
+    "ans": "4836",
+    "bahas": "Dekomposisi: 93 × (50 + 2) = 4836"
+  },
+  {
+    "text": "65 × 82 = ?",
+    "ans": "5330",
+    "bahas": "Dekomposisi: 65 × (80 + 2) = 5330"
+  },
+  {
+    "text": "49 × 88 = ?",
+    "ans": "4312",
+    "bahas": "Dekomposisi: 49 × (90 - 2) = 4410 - 98 = 4312"
+  },
+  {
+    "text": "43 × 60 = ?",
+    "ans": "2580",
+    "bahas": "Dekomposisi: 43 × (60 - 0) = 2580 - 0 = 2580"
+  },
+  {
+    "text": "59 × 93 = ?",
+    "ans": "5487",
+    "bahas": "Dekomposisi: 59 × (90 + 3) = 5487"
+  },
+  {
+    "text": "95 × 58 = ?",
+    "ans": "5510",
+    "bahas": "Dekomposisi: 95 × (60 - 2) = 5700 - 190 = 5510"
+  },
+  {
+    "text": "83 × 43 = ?",
+    "ans": "3569",
+    "bahas": "Dekomposisi: 83 × (40 + 3) = 3569"
+  },
+  {
+    "text": "95 × 61 = ?",
+    "ans": "5795",
+    "bahas": "Dekomposisi: 95 × (60 + 1) = 5795"
+  },
+  {
+    "text": "99 × 92 = ?",
+    "ans": "9108",
+    "bahas": "Dekomposisi: 99 × (90 + 2) = 9108"
+  },
+  {
+    "text": "88 × 58 = ?",
+    "ans": "5104",
+    "bahas": "Dekomposisi: 88 × (60 - 2) = 5280 - 176 = 5104"
+  },
+  {
+    "text": "80 × 46 = ?",
+    "ans": "3680",
+    "bahas": "Dekomposisi: 80 × (40 + 6) = 3680"
+  },
+  {
+    "text": "81 × 52 = ?",
+    "ans": "4212",
+    "bahas": "Dekomposisi: 81 × (50 + 2) = 4212"
+  },
+  {
+    "text": "68 × 95 = ?",
+    "ans": "6460",
+    "bahas": "Dekomposisi: 68 × (90 + 5) = 6460"
+  },
+  {
+    "text": "81 × 62 = ?",
+    "ans": "5022",
+    "bahas": "Dekomposisi: 81 × (60 + 2) = 5022"
+  },
+  {
+    "text": "42 × 44 = ?",
+    "ans": "1848",
+    "bahas": "Dekomposisi: 42 × (40 + 4) = 1848"
+  },
+  {
+    "text": "39 × 55 = ?",
+    "ans": "2145",
+    "bahas": "Dekomposisi: 39 × (50 + 5) = 2145"
+  },
+  {
+    "text": "86 × 97 = ?",
+    "ans": "8342",
+    "bahas": "Dekomposisi: 86 × (100 - 3) = 8600 - 258 = 8342"
+  },
+  {
+    "text": "74 × 72 = ?",
+    "ans": "5328",
+    "bahas": "Dekomposisi: 74 × (70 + 2) = 5328"
+  },
+  {
+    "text": "99 × 96 = ?",
+    "ans": "9504",
+    "bahas": "Dekomposisi: 99 × (90 + 6) = 9504"
+  },
+  {
+    "text": "97 × 90 = ?",
+    "ans": "8730",
+    "bahas": "Dekomposisi: 97 × (90 - 0) = 8730 - 0 = 8730"
+  },
+  {
+    "text": "41 × 98 = ?",
+    "ans": "4018",
+    "bahas": "Dekomposisi: 41 × (100 - 2) = 4100 - 82 = 4018"
+  },
+  {
+    "text": "70 × 74 = ?",
+    "ans": "5180",
+    "bahas": "Dekomposisi: 70 × (70 + 4) = 5180"
+  },
+  {
+    "text": "99 × 46 = ?",
+    "ans": "4554",
+    "bahas": "Dekomposisi: 99 × (40 + 6) = 4554"
+  },
+  {
+    "text": "92 × 54 = ?",
+    "ans": "4968",
+    "bahas": "Dekomposisi: 92 × (50 + 4) = 4968"
+  },
+  {
+    "text": "95 × 88 = ?",
+    "ans": "8360",
+    "bahas": "Dekomposisi: 95 × (90 - 2) = 8550 - 190 = 8360"
+  },
+  {
+    "text": "50 × 67 = ?",
+    "ans": "3350",
+    "bahas": "Dekomposisi: 50 × (70 - 3) = 3500 - 150 = 3350"
+  },
+  {
+    "text": "37 × 59 = ?",
+    "ans": "2183",
+    "bahas": "Dekomposisi: 37 × (60 - 1) = 2220 - 37 = 2183"
+  },
+  {
+    "text": "51 × 50 = ?",
+    "ans": "2550",
+    "bahas": "Dekomposisi: 51 × (50 - 0) = 2550 - 0 = 2550"
+  },
+  {
+    "text": "41 × 62 = ?",
+    "ans": "2542",
+    "bahas": "Dekomposisi: 41 × (60 + 2) = 2542"
+  },
+  {
+    "text": "51 × 47 = ?",
+    "ans": "2397",
+    "bahas": "Dekomposisi: 51 × (50 - 3) = 2550 - 153 = 2397"
+  },
+  {
+    "text": "88 × 41 = ?",
+    "ans": "3608",
+    "bahas": "Dekomposisi: 88 × (40 + 1) = 3608"
+  },
+  {
+    "text": "92 × 43 = ?",
+    "ans": "3956",
+    "bahas": "Dekomposisi: 92 × (40 + 3) = 3956"
+  },
+  {
+    "text": "96 × 58 = ?",
+    "ans": "5568",
+    "bahas": "Dekomposisi: 96 × (60 - 2) = 5760 - 192 = 5568"
+  },
+  {
+    "text": "82 × 57 = ?",
+    "ans": "4674",
+    "bahas": "Dekomposisi: 82 × (60 - 3) = 4920 - 246 = 4674"
+  },
+  {
+    "text": "82 × 89 = ?",
+    "ans": "7298",
+    "bahas": "Dekomposisi: 82 × (90 - 1) = 7380 - 82 = 7298"
+  },
+  {
+    "text": "41 × 82 = ?",
+    "ans": "3362",
+    "bahas": "Dekomposisi: 41 × (80 + 2) = 3362"
+  },
+  {
+    "text": "91 × 52 = ?",
+    "ans": "4732",
+    "bahas": "Dekomposisi: 91 × (50 + 2) = 4732"
+  },
+  {
+    "text": "57 × 87 = ?",
+    "ans": "4959",
+    "bahas": "Dekomposisi: 57 × (90 - 3) = 5130 - 171 = 4959"
+  },
+  {
+    "text": "53 × 79 = ?",
+    "ans": "4187",
+    "bahas": "Dekomposisi: 53 × (80 - 1) = 4240 - 53 = 4187"
+  },
+  {
+    "text": "43 × 62 = ?",
+    "ans": "2666",
+    "bahas": "Dekomposisi: 43 × (60 + 2) = 2666"
+  },
+  {
+    "text": "63 × 53 = ?",
+    "ans": "3339",
+    "bahas": "Dekomposisi: 63 × (50 + 3) = 3339"
+  },
+  {
+    "text": "50 × 89 = ?",
+    "ans": "4450",
+    "bahas": "Dekomposisi: 50 × (90 - 1) = 4500 - 50 = 4450"
+  },
+  {
+    "text": "99 × 46 = ?",
+    "ans": "4554",
+    "bahas": "Dekomposisi: 99 × (40 + 6) = 4554"
+  },
+  {
+    "text": "50 × 74 = ?",
+    "ans": "3700",
+    "bahas": "Dekomposisi: 50 × (70 + 4) = 3700"
+  },
+  {
+    "text": "75 × 95 = ?",
+    "ans": "7125",
+    "bahas": "Dekomposisi: 75 × (90 + 5) = 7125"
+  },
+  {
+    "text": "38 × 58 = ?",
+    "ans": "2204",
+    "bahas": "Dekomposisi: 38 × (60 - 2) = 2280 - 76 = 2204"
+  },
+  {
+    "text": "62 × 51 = ?",
+    "ans": "3162",
+    "bahas": "Dekomposisi: 62 × (50 + 1) = 3162"
+  },
+  {
+    "text": "57 × 54 = ?",
+    "ans": "3078",
+    "bahas": "Dekomposisi: 57 × (50 + 4) = 3078"
+  },
+  {
+    "text": "59 × 46 = ?",
+    "ans": "2714",
+    "bahas": "Dekomposisi: 59 × (40 + 6) = 2714"
+  },
+  {
+    "text": "70 × 41 = ?",
+    "ans": "2870",
+    "bahas": "Dekomposisi: 70 × (40 + 1) = 2870"
+  },
+  {
+    "text": "50 × 96 = ?",
+    "ans": "4800",
+    "bahas": "Dekomposisi: 50 × (90 + 6) = 4800"
+  },
+  {
+    "text": "78 × 82 = ?",
+    "ans": "6396",
+    "bahas": "Dekomposisi: 78 × (80 + 2) = 6396"
+  },
+  {
+    "text": "70 × 80 = ?",
+    "ans": "5600",
+    "bahas": "Dekomposisi: 70 × (80 - 0) = 5600 - 0 = 5600"
+  },
+  {
+    "text": "43 × 77 = ?",
+    "ans": "3311",
+    "bahas": "Dekomposisi: 43 × (80 - 3) = 3440 - 129 = 3311"
+  },
+  {
+    "text": "37 × 97 = ?",
+    "ans": "3589",
+    "bahas": "Dekomposisi: 37 × (100 - 3) = 3700 - 111 = 3589"
+  },
+  {
+    "text": "99 × 48 = ?",
+    "ans": "4752",
+    "bahas": "Dekomposisi: 99 × (50 - 2) = 4950 - 198 = 4752"
+  },
+  {
+    "text": "63 × 72 = ?",
+    "ans": "4536",
+    "bahas": "Dekomposisi: 63 × (70 + 2) = 4536"
+  }
+]
